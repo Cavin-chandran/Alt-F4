@@ -78,6 +78,8 @@ Bert and T5
 ## Results
 
 The symptoms are used as input and condition is found as target , ambulance travels to the best option of hospital successfully
+FastAPI has been integrated
+Flask backend has been implemnted
 
 ### Example:
 - The model achieved an accuracy of 92% with a precision of 0.88 on the test dataset.
