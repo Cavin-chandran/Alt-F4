@@ -1,0 +1,501 @@
+Patient_ID,Name,Age,Medical_History,Previous_Medications,Allergies,Family_History,Smoking_History,Alcohol_Consumption
+1001,Joshua Reed,33,Past Surgeries,Blood Thinners,NSAIDs,Stroke,Current smoker,Occasional
+1002,David Martinez,41,Tuberculosis,Painkillers,Gluten,Epilepsy,Non-smoker,Moderate
+1003,Martin Harvey,88,Blood Clotting Disorder,Asthma Inhaler,Pollen,Blood Clotting Disorder,Occasional smoker,Moderate
+1004,Kimberly Hendricks,53,Liver Disease,Cholesterol Medication,Eggs,Blood Clotting Disorder,Non-smoker,Moderate
+1005,Karen Powell,39,Liver Disease,Antidepressants,Dust Mites,Kidney Disease,Occasional smoker,None
+1006,Sabrina Hawkins,18,Anemia,Asthma Inhaler,Bee Stings,Alcoholism,Non-smoker,Heavy
+1007,Brian Johnson,40,Chronic Obstructive Pulmonary Disease (COPD),Anti-seizure Medication,Latex,Autoimmune Disorders,Current smoker,None
+1008,Angelica Roberts,71,No significant history,Steroids,Sulfa Drugs,Depression,Non-smoker,Occasional
+1009,Stephanie Burke,63,Arthritis,Blood Thinners,Animal Dander,Cancer,Occasional smoker,None
+1010,Jason Esparza,59,Liver Disease,Painkillers,Certain Antibiotics,No known family history,Occasional smoker,Occasional
+1011,Jeremy Richmond,23,Tuberculosis,Anti-seizure Medication,Certain Antibiotics,Epilepsy,Occasional smoker,Heavy
+1012,Jennifer Adkins,43,Past Surgeries,No ongoing medication,Dust Mites,Stroke,Non-smoker,Moderate
+1013,Jessica Haynes,47,No significant history,Antidepressants,Latex,Depression,Former smoker,Moderate
+1014,Craig Smith,83,Migraine,Blood Thinners,Pollen,Epilepsy,Current smoker,Occasional
+1015,Mitchell Jones,20,Asthma,Painkillers,Lactose,Cancer,Non-smoker,Heavy
+1016,Donna Price,23,Drug Allergy,Heart Medication,Sulfa Drugs,Alcoholism,Occasional smoker,Moderate
+1017,Larry Carroll,74,Liver Disease,Antibiotics,Pollen,Hypertension,Current smoker,Heavy
+1018,Hector Peterson,66,Anemia,Antidepressants,Penicillin,Blood Clotting Disorder,Non-smoker,Heavy
+1019,Whitney Chavez,86,Blood Clotting Disorder,Asthma Inhaler,Latex,No known family history,Current smoker,Heavy
+1020,Jeffrey Johnson,86,Past Surgeries,Antibiotics,Certain Antibiotics,Blood Clotting Disorder,Occasional smoker,None
+1021,William Nguyen,63,Hypertension,Cholesterol Medication,Animal Dander,Asthma,Former smoker,Moderate
+1022,Mrs. Sherry Bennett,70,Epilepsy,Insulin,Gluten,Alzheimer's Disease,Non-smoker,Occasional
+1023,Melissa George,51,Chronic Kidney Disease,Painkillers,Lactose,Cancer,Former smoker,Moderate
+1024,Derrick Kaufman,73,Migraine,Heart Medication,Certain Antibiotics,Asthma,Current smoker,Heavy
+1025,Sara Zhang,20,Anemia,Anti-seizure Medication,Sulfa Drugs,Alzheimer's Disease,Former smoker,Moderate
+1026,Rachel Castillo,88,Previous Stroke,Asthma Inhaler,Eggs,Cancer,Non-smoker,Moderate
+1027,Calvin Anderson,90,Heart Disease,Blood Pressure Medication,Sulfa Drugs,Hypertension,Former smoker,Heavy
+1028,Jo Lin,40,Diabetes,Cholesterol Medication,Lactose,Alcoholism,Occasional smoker,Moderate
+1029,Catherine Carlson,58,Smoking History,Antidepressants,Shellfish,Epilepsy,Former smoker,None
+1030,Robert Miller,32,Asthma,Antibiotics,Lactose,Alzheimer's Disease,Former smoker,None
+1031,Dr. Oscar Washington Jr.,46,Drug Allergy,Steroids,Lactose,Epilepsy,Non-smoker,Occasional
+1032,Natalie Wong,73,Diabetes,Antidepressants,Sulfa Drugs,Depression,Non-smoker,Occasional
+1033,Nicole Cooke,48,No significant history,Painkillers,Sulfa Drugs,Blood Clotting Disorder,Current smoker,None
+1034,Angela Mann,47,Blood Clotting Disorder,Painkillers,Sulfa Drugs,Autoimmune Disorders,Former smoker,Moderate
+1035,Deborah Pierce,64,Anemia,Cholesterol Medication,Peanuts,Cancer,Current smoker,None
+1036,Johnny Robinson,79,Chronic Kidney Disease,Cholesterol Medication,Lactose,Alcoholism,Non-smoker,Moderate
+1037,Ryan Martinez,74,Epilepsy,Painkillers,NSAIDs,Asthma,Occasional smoker,Moderate
+1038,Stephen Morales,41,Liver Disease,Antidepressants,Pollen,Diabetes,Non-smoker,Occasional
+1039,Jenna Porter,39,Cancer Treatment,Cholesterol Medication,Dust Mites,Autoimmune Disorders,Occasional smoker,None
+1040,Mark Martinez,51,Asthma,Steroids,Pollen,Depression,Current smoker,Moderate
+1041,Tanya Morgan,18,Previous Stroke,Antidepressants,Pollen,Cancer,Non-smoker,None
+1042,Diane Mayer,44,Heart Disease,Heart Medication,None,Stroke,Current smoker,Occasional
+1043,Rebecca Barber,49,Past Surgeries,No ongoing medication,NSAIDs,Alcoholism,Former smoker,Occasional
+1044,Maxwell Ramos,85,Hypertension,Heart Medication,Eggs,Alcoholism,Non-smoker,None
+1045,Brianna Reynolds,45,Anemia,Blood Pressure Medication,Sulfa Drugs,Heart Disease,Former smoker,Occasional
+1046,Matthew Rice,76,Smoking History,Blood Pressure Medication,Sulfa Drugs,Alzheimer's Disease,Former smoker,None
+1047,Thomas Clark,38,Chronic Kidney Disease,Steroids,Lactose,Kidney Disease,Former smoker,Heavy
+1048,Jennifer Brandt,32,Epilepsy,Antidepressants,Gluten,Kidney Disease,Non-smoker,Occasional
+1049,Brooke Martinez,84,Anemia,No ongoing medication,Peanuts,Blood Clotting Disorder,Current smoker,Heavy
+1050,Kyle Villarreal,60,Liver Disease,Painkillers,Pollen,Hypertension,Occasional smoker,Moderate
+1051,Richard Glass,26,Cancer Treatment,Steroids,Latex,Blood Clotting Disorder,Occasional smoker,None
+1052,Mike King,74,Heart Disease,Anti-seizure Medication,Certain Antibiotics,Asthma,Former smoker,None
+1053,Daniel Holland,25,Asthma,Painkillers,Bee Stings,Autoimmune Disorders,Occasional smoker,Heavy
+1054,Brandy Harmon,42,Tuberculosis,Anti-seizure Medication,Lactose,Cancer,Current smoker,None
+1055,Benjamin Johnson,48,Past Surgeries,Insulin,Dust Mites,No known family history,Non-smoker,Occasional
+1056,Andrew Salazar,25,Asthma,Heart Medication,Penicillin,Kidney Disease,Occasional smoker,None
+1057,Stephanie Taylor,51,Arthritis,Insulin,Lactose,Kidney Disease,Current smoker,Heavy
+1058,Rodney Wilson,76,Arthritis,Cholesterol Medication,Dust Mites,Blood Clotting Disorder,Former smoker,Occasional
+1059,Lindsay Fernandez,29,Anemia,Steroids,Certain Antibiotics,Cancer,Former smoker,Moderate
+1060,Joseph Wells,59,Tuberculosis,Antidepressants,Lactose,Alcoholism,Current smoker,Heavy
+1061,David Bowman,34,Asthma,Blood Pressure Medication,Gluten,Asthma,Occasional smoker,Moderate
+1062,Jennifer Powers,72,Diabetes,Painkillers,Sulfa Drugs,No known family history,Occasional smoker,Heavy
+1063,Sean Pugh,82,Asthma,Insulin,Eggs,Diabetes,Current smoker,Moderate
+1064,Lindsay Young,29,Hypertension,Asthma Inhaler,Gluten,Stroke,Current smoker,Moderate
+1065,Sheri Rangel,66,Blood Clotting Disorder,No ongoing medication,Shellfish,Autoimmune Disorders,Current smoker,None
+1066,Lori Reeves,30,Chronic Kidney Disease,Heart Medication,Certain Antibiotics,Stroke,Current smoker,Moderate
+1067,Steven Mclean,28,Blood Clotting Disorder,Antidepressants,Dust Mites,Hypertension,Former smoker,Occasional
+1068,Jason Wright,90,Liver Disease,Blood Thinners,Latex,Alzheimer's Disease,Current smoker,Occasional
+1069,Matthew Ruiz,88,Tuberculosis,Antidepressants,Animal Dander,Alzheimer's Disease,Current smoker,Moderate
+1070,Stephanie Gill,43,Smoking History,Antidepressants,Pollen,No known family history,Occasional smoker,Heavy
+1071,Michael Casey,66,Blood Clotting Disorder,Blood Pressure Medication,Dust Mites,Epilepsy,Current smoker,Moderate
+1072,Jeremy Rodriguez,24,Arthritis,Anti-seizure Medication,Gluten,Blood Clotting Disorder,Former smoker,Occasional
+1073,Michael Harvey,33,Asthma,Antidepressants,Eggs,Alcoholism,Former smoker,None
+1074,Steven Landry,43,Tuberculosis,Steroids,Shellfish,Alzheimer's Disease,Occasional smoker,Moderate
+1075,Jamie Lawson,65,Blood Clotting Disorder,Steroids,Sulfa Drugs,Depression,Former smoker,None
+1076,Patrick Wright,46,Tuberculosis,Heart Medication,Certain Antibiotics,Stroke,Former smoker,None
+1077,Terry Parker,41,Epilepsy,Blood Thinners,None,Hypertension,Current smoker,Heavy
+1078,Barbara Hall,64,Tuberculosis,Insulin,Shellfish,Alcoholism,Current smoker,Occasional
+1079,Becky Sanchez,44,Smoking History,Insulin,Bee Stings,Alzheimer's Disease,Former smoker,Moderate
+1080,Alyssa Shaw,23,Migraine,Painkillers,Latex,Epilepsy,Current smoker,Moderate
+1081,Mark Brown,25,Heart Disease,Painkillers,Peanuts,Autoimmune Disorders,Non-smoker,None
+1082,Emma Brown,83,Alcohol Dependency,Steroids,Peanuts,Arthritis,Current smoker,None
+1083,Christopher Hill,55,Heart Disease,No ongoing medication,Pollen,Hypertension,Current smoker,Moderate
+1084,Jessica Erickson,71,Blood Clotting Disorder,Blood Thinners,NSAIDs,No known family history,Former smoker,None
+1085,Alex Salinas,81,Chronic Obstructive Pulmonary Disease (COPD),Antibiotics,Dust Mites,Stroke,Non-smoker,Occasional
+1086,Miguel Saunders,55,Asthma,Blood Pressure Medication,Lactose,Alzheimer's Disease,Former smoker,Moderate
+1087,Kaitlyn Johnson,68,Hypertension,Blood Thinners,Dust Mites,Stroke,Former smoker,Moderate
+1088,Jason Delgado,44,Previous Stroke,Antidepressants,Sulfa Drugs,Alzheimer's Disease,Current smoker,Moderate
+1089,Sherry Reed,80,Blood Clotting Disorder,Cholesterol Medication,Sulfa Drugs,Stroke,Non-smoker,Moderate
+1090,Stephanie George,50,Diabetes,No ongoing medication,Bee Stings,Asthma,Occasional smoker,None
+1091,Jessica Shah,41,Hypertension,Anti-seizure Medication,Dust Mites,Alzheimer's Disease,Current smoker,Moderate
+1092,Rebecca Foster,66,Migraine,Heart Medication,Gluten,Alcoholism,Non-smoker,None
+1093,Cindy Hampton,47,Previous Stroke,Heart Medication,Latex,Alcoholism,Non-smoker,Moderate
+1094,Michael Coleman,82,Cancer Treatment,Heart Medication,Eggs,Depression,Occasional smoker,None
+1095,Amanda Alexander,53,Smoking History,Painkillers,NSAIDs,Stroke,Occasional smoker,Heavy
+1096,Max White,32,Arthritis,Asthma Inhaler,Certain Antibiotics,Hypertension,Current smoker,None
+1097,Renee Smith,47,Hypertension,Insulin,Gluten,Arthritis,Non-smoker,Occasional
+1098,Samantha Vargas,76,Past Surgeries,Anti-seizure Medication,Penicillin,Stroke,Non-smoker,Occasional
+1099,James Becker,36,Smoking History,Asthma Inhaler,Dust Mites,Stroke,Occasional smoker,Heavy
+1100,Andrew Meyer,82,Arthritis,Insulin,Gluten,Arthritis,Former smoker,Occasional
+1101,Miguel Copeland,24,Diabetes,Antibiotics,Bee Stings,Diabetes,Non-smoker,Moderate
+1102,Timothy Gutierrez,32,Cancer Treatment,No ongoing medication,Certain Antibiotics,Kidney Disease,Occasional smoker,None
+1103,Melissa Brown,82,Drug Allergy,Heart Medication,Penicillin,Arthritis,Non-smoker,Occasional
+1104,Cristina Snow,88,Chronic Kidney Disease,Heart Medication,Pollen,Stroke,Current smoker,None
+1105,Connie Gordon,22,No significant history,Cholesterol Medication,None,Heart Disease,Former smoker,None
+1106,Laura Bryan,54,Asthma,Cholesterol Medication,Animal Dander,Cancer,Non-smoker,Heavy
+1107,Audrey Gregory,28,Asthma,Antibiotics,Lactose,Kidney Disease,Occasional smoker,Occasional
+1108,John Reyes,71,No significant history,Antidepressants,Gluten,Depression,Non-smoker,Moderate
+1109,Adrian Acevedo,45,Chronic Obstructive Pulmonary Disease (COPD),Blood Thinners,Pollen,Stroke,Current smoker,None
+1110,Nicole Thompson,69,Chronic Kidney Disease,Insulin,Lactose,Alzheimer's Disease,Occasional smoker,Moderate
+1111,Whitney Mckenzie,35,Migraine,Blood Pressure Medication,NSAIDs,Stroke,Non-smoker,Occasional
+1112,Ann King,19,Cancer Treatment,Asthma Inhaler,Peanuts,Asthma,Current smoker,None
+1113,Natalie Walker,39,Arthritis,Antibiotics,Penicillin,Stroke,Non-smoker,Heavy
+1114,Cheryl Thompson,66,Smoking History,Heart Medication,Sulfa Drugs,Arthritis,Occasional smoker,Heavy
+1115,Kimberly Johnson,39,Anemia,Cholesterol Medication,Pollen,Kidney Disease,Occasional smoker,Heavy
+1116,Melanie Lee,24,Heart Disease,Antibiotics,Gluten,Alzheimer's Disease,Former smoker,None
+1117,Jeremy Wall,67,Chronic Kidney Disease,Cholesterol Medication,Gluten,Kidney Disease,Non-smoker,Occasional
+1118,Joseph Wallace,69,Chronic Obstructive Pulmonary Disease (COPD),No ongoing medication,None,No known family history,Current smoker,Occasional
+1119,Jeffrey Rodriguez,23,Diabetes,Insulin,Peanuts,Heart Disease,Occasional smoker,Occasional
+1120,Mary Williams,44,Alcohol Dependency,Blood Thinners,Animal Dander,Hypertension,Occasional smoker,None
+1121,Kara Stewart,67,Liver Disease,Antidepressants,Pollen,Alcoholism,Occasional smoker,Moderate
+1122,Julie Blackburn,54,Anemia,Asthma Inhaler,Pollen,Alzheimer's Disease,Non-smoker,Occasional
+1123,Adam Mcguire,21,Hypertension,Antidepressants,Certain Antibiotics,Arthritis,Current smoker,None
+1124,Timothy Wolf,65,Alcohol Dependency,Insulin,Shellfish,Heart Disease,Non-smoker,Heavy
+1125,Kenneth Lee,75,Chronic Kidney Disease,Anti-seizure Medication,Gluten,Alcoholism,Occasional smoker,None
+1126,Robert Jones,83,Heart Disease,Painkillers,Gluten,No known family history,Current smoker,Moderate
+1127,Bryan Steele,77,Hypertension,Blood Pressure Medication,Animal Dander,Depression,Former smoker,Heavy
+1128,Larry Howe,59,Blood Clotting Disorder,Anti-seizure Medication,Peanuts,Hypertension,Occasional smoker,Heavy
+1129,Jessica Juarez,84,No significant history,Blood Thinners,Certain Antibiotics,Arthritis,Current smoker,Moderate
+1130,Patricia Dixon,62,Past Surgeries,Blood Pressure Medication,Bee Stings,Depression,Non-smoker,None
+1131,Karen Burgess,42,Arthritis,Steroids,Gluten,Diabetes,Non-smoker,Heavy
+1132,Tara Franco,69,Hypertension,No ongoing medication,Penicillin,No known family history,Occasional smoker,Heavy
+1133,Barry Hudson,88,Diabetes,Insulin,Gluten,Depression,Current smoker,Heavy
+1134,Jennifer Brooks,32,Heart Disease,Blood Pressure Medication,Penicillin,Alzheimer's Disease,Non-smoker,Occasional
+1135,Richard Fox,62,Liver Disease,Insulin,NSAIDs,Hypertension,Current smoker,Moderate
+1136,Rebecca Carter,56,Asthma,Anti-seizure Medication,Sulfa Drugs,Depression,Occasional smoker,Occasional
+1137,Jamie Travis,32,Heart Disease,Cholesterol Medication,Sulfa Drugs,Arthritis,Non-smoker,Heavy
+1138,Jennifer Smith,67,Hypertension,Antibiotics,Dust Mites,Arthritis,Occasional smoker,None
+1139,Zachary Thomas,51,Blood Clotting Disorder,Blood Thinners,Sulfa Drugs,Stroke,Non-smoker,Heavy
+1140,Elizabeth Arnold,53,Epilepsy,Steroids,Animal Dander,No known family history,Current smoker,Heavy
+1141,Brian Roth,37,Chronic Kidney Disease,Cholesterol Medication,Peanuts,Cancer,Occasional smoker,Moderate
+1142,Robert Cardenas,55,No significant history,Antidepressants,Animal Dander,Epilepsy,Former smoker,Heavy
+1143,Judith Holmes,76,Diabetes,Antibiotics,Shellfish,Cancer,Current smoker,Moderate
+1144,Stacy Mccormick,30,Hypertension,Blood Pressure Medication,Gluten,No known family history,Non-smoker,Moderate
+1145,Michelle Haas,26,Past Surgeries,No ongoing medication,Peanuts,Alzheimer's Disease,Former smoker,Moderate
+1146,Gary Conner,78,Previous Stroke,Cholesterol Medication,Dust Mites,Autoimmune Disorders,Former smoker,Moderate
+1147,Barbara Rivera,77,Epilepsy,Antibiotics,Peanuts,Arthritis,Current smoker,Heavy
+1148,Carrie Johnson,81,Drug Allergy,Blood Thinners,Animal Dander,Blood Clotting Disorder,Current smoker,Occasional
+1149,Carol Wade,50,Migraine,Antidepressants,Animal Dander,Hypertension,Former smoker,Moderate
+1150,Kenneth Gomez,57,Migraine,Heart Medication,Latex,Alzheimer's Disease,Non-smoker,Occasional
+1151,Barbara Morgan,21,Past Surgeries,Antidepressants,Sulfa Drugs,Autoimmune Disorders,Non-smoker,None
+1152,Cheryl Miller,89,Epilepsy,Anti-seizure Medication,Bee Stings,Asthma,Former smoker,Heavy
+1153,Dr. Evelyn Stephens MD,69,Alcohol Dependency,Steroids,Peanuts,Alcoholism,Occasional smoker,Moderate
+1154,Mrs. Julie Phillips,87,Hypertension,No ongoing medication,Sulfa Drugs,Hypertension,Non-smoker,Occasional
+1155,Regina Olson,24,Diabetes,Anti-seizure Medication,Dust Mites,Stroke,Current smoker,Moderate
+1156,Alexandra Sanchez,27,Liver Disease,Asthma Inhaler,Animal Dander,No known family history,Occasional smoker,None
+1157,Angela Walker,74,Epilepsy,Steroids,Penicillin,Depression,Non-smoker,Heavy
+1158,Megan Noble,59,Epilepsy,Cholesterol Medication,None,Asthma,Non-smoker,Moderate
+1159,Jenna Henderson,51,Alcohol Dependency,Antidepressants,Latex,Kidney Disease,Occasional smoker,None
+1160,Stephanie Bell,69,Arthritis,Antidepressants,Penicillin,Alzheimer's Disease,Non-smoker,Heavy
+1161,Zachary Marks,88,Drug Allergy,Heart Medication,Pollen,Kidney Disease,Current smoker,Occasional
+1162,Terry Barnes,84,Diabetes,Antibiotics,Certain Antibiotics,Blood Clotting Disorder,Non-smoker,Heavy
+1163,Mark Ewing,74,Past Surgeries,Antidepressants,None,Diabetes,Former smoker,Heavy
+1164,Joseph Vega,35,Chronic Kidney Disease,Steroids,Eggs,Arthritis,Non-smoker,Moderate
+1165,Leslie Thompson,38,Past Surgeries,Steroids,Pollen,Depression,Occasional smoker,Heavy
+1166,Tracy Sullivan,88,Migraine,Antibiotics,Peanuts,Epilepsy,Occasional smoker,None
+1167,Kim Flores,65,Epilepsy,Cholesterol Medication,Dust Mites,No known family history,Current smoker,Moderate
+1168,Carlos Johns,24,Heart Disease,Insulin,Sulfa Drugs,Epilepsy,Current smoker,Heavy
+1169,James Benson,87,Tuberculosis,Blood Pressure Medication,Penicillin,Arthritis,Non-smoker,Occasional
+1170,Nicholas Guerrero,34,Hypertension,Steroids,Penicillin,Depression,Former smoker,Moderate
+1171,Pamela Martinez,47,Past Surgeries,Heart Medication,Animal Dander,Heart Disease,Current smoker,Occasional
+1172,Michelle Gates,73,Chronic Kidney Disease,Painkillers,Latex,Asthma,Non-smoker,Moderate
+1173,Jason Jordan,85,Epilepsy,Blood Thinners,Animal Dander,Epilepsy,Current smoker,Occasional
+1174,Karen Pratt,68,Migraine,Steroids,NSAIDs,Cancer,Former smoker,None
+1175,Briana Kim,61,Previous Stroke,Asthma Inhaler,Lactose,Depression,Current smoker,Moderate
+1176,Stephanie Pratt,33,Migraine,Antidepressants,Peanuts,Epilepsy,Occasional smoker,Moderate
+1177,Ryan Perez,64,Diabetes,Anti-seizure Medication,Penicillin,Arthritis,Non-smoker,None
+1178,Melissa Scott,21,Tuberculosis,No ongoing medication,Dust Mites,Heart Disease,Former smoker,Moderate
+1179,Jason Vasquez,43,Cancer Treatment,Anti-seizure Medication,Pollen,Alcoholism,Non-smoker,Occasional
+1180,Brooke Gross,72,Chronic Kidney Disease,No ongoing medication,Sulfa Drugs,Epilepsy,Former smoker,Heavy
+1181,Andre Smith,18,Smoking History,Heart Medication,None,Hypertension,Occasional smoker,None
+1182,Susan Dominguez,56,No significant history,Insulin,NSAIDs,Alzheimer's Disease,Current smoker,Moderate
+1183,Kyle Beltran,79,Anemia,Cholesterol Medication,Lactose,Kidney Disease,Former smoker,None
+1184,Sara Meyer,33,Hypertension,Blood Pressure Medication,Lactose,Blood Clotting Disorder,Non-smoker,Occasional
+1185,Kelly Snyder,30,Chronic Kidney Disease,Blood Pressure Medication,Latex,Epilepsy,Occasional smoker,None
+1186,Troy Buchanan DVM,75,No significant history,Blood Pressure Medication,Certain Antibiotics,Hypertension,Current smoker,None
+1187,Amy Giles,44,Chronic Kidney Disease,Painkillers,Sulfa Drugs,Alzheimer's Disease,Former smoker,None
+1188,Brittany Owens,27,Smoking History,Cholesterol Medication,Eggs,Heart Disease,Occasional smoker,Moderate
+1189,Caroline Gonzales DVM,19,Liver Disease,Steroids,Peanuts,Cancer,Current smoker,Occasional
+1190,Leah Coleman,89,Diabetes,Asthma Inhaler,Certain Antibiotics,Arthritis,Occasional smoker,None
+1191,Richard Gray,72,Alcohol Dependency,Heart Medication,Latex,Cancer,Occasional smoker,None
+1192,Yolanda Miller,60,Chronic Kidney Disease,Anti-seizure Medication,Shellfish,No known family history,Occasional smoker,Heavy
+1193,Kevin Brown,23,Chronic Kidney Disease,Antidepressants,Penicillin,Arthritis,Current smoker,Heavy
+1194,Joshua Mitchell,63,Anemia,Anti-seizure Medication,Peanuts,Epilepsy,Current smoker,None
+1195,Timothy Case,42,Alcohol Dependency,Steroids,Latex,Alzheimer's Disease,Current smoker,Heavy
+1196,Jessica Klein,75,Smoking History,Asthma Inhaler,Lactose,Cancer,Non-smoker,None
+1197,Tina Richard,53,Past Surgeries,Antibiotics,Certain Antibiotics,Asthma,Non-smoker,Heavy
+1198,John Gill,31,Hypertension,Blood Thinners,Shellfish,Autoimmune Disorders,Current smoker,Heavy
+1199,Heidi Levy,45,Hypertension,Antidepressants,Shellfish,Diabetes,Non-smoker,None
+1200,Sarah Mitchell,59,Asthma,Insulin,Animal Dander,Hypertension,Former smoker,Moderate
+1201,Brian Sanders,42,Tuberculosis,Heart Medication,Penicillin,Cancer,Occasional smoker,Occasional
+1202,Derek Chapman,83,No significant history,Insulin,Gluten,Alzheimer's Disease,Former smoker,Occasional
+1203,Toni Lynch,49,Blood Clotting Disorder,Antibiotics,Shellfish,Heart Disease,Non-smoker,Occasional
+1204,Jason Brooks,42,Migraine,Asthma Inhaler,Certain Antibiotics,Blood Clotting Disorder,Non-smoker,Occasional
+1205,Jonathan Steele,59,Liver Disease,Cholesterol Medication,Eggs,Arthritis,Non-smoker,Heavy
+1206,Emily Chen,69,Alcohol Dependency,Antidepressants,Sulfa Drugs,Alzheimer's Disease,Occasional smoker,Heavy
+1207,Angela Mendoza,90,Chronic Obstructive Pulmonary Disease (COPD),Blood Pressure Medication,Peanuts,Kidney Disease,Former smoker,Moderate
+1208,Brittany White,45,Epilepsy,Insulin,Shellfish,Stroke,Occasional smoker,Heavy
+1209,John Rangel,36,Past Surgeries,Cholesterol Medication,Certain Antibiotics,Epilepsy,Current smoker,Moderate
+1210,Melanie Hernandez,76,Blood Clotting Disorder,Blood Pressure Medication,Shellfish,Kidney Disease,Former smoker,Occasional
+1211,Michael Shepherd,43,Migraine,Antidepressants,Lactose,Kidney Disease,Former smoker,Heavy
+1212,Desiree Hicks,61,Alcohol Dependency,Heart Medication,Pollen,Depression,Current smoker,Occasional
+1213,Sarah Jones,42,Tuberculosis,Antidepressants,NSAIDs,Epilepsy,Former smoker,Moderate
+1214,Jasmine Hunt,22,Hypertension,Blood Thinners,Gluten,Alcoholism,Non-smoker,Moderate
+1215,Sandra Boyle,67,Anemia,Asthma Inhaler,Lactose,Epilepsy,Non-smoker,Moderate
+1216,Kathleen Mullen,62,No significant history,Antidepressants,Bee Stings,Arthritis,Current smoker,None
+1217,Sherry Williamson,21,Drug Allergy,Heart Medication,Sulfa Drugs,Cancer,Occasional smoker,Occasional
+1218,Robert English,69,Diabetes,Blood Thinners,Pollen,Cancer,Former smoker,Moderate
+1219,Jeffery Savage,18,Cancer Treatment,Insulin,Shellfish,Stroke,Occasional smoker,Moderate
+1220,Angela Lewis,41,No significant history,Anti-seizure Medication,Lactose,Arthritis,Current smoker,Moderate
+1221,Stuart Robertson,62,No significant history,No ongoing medication,None,Blood Clotting Disorder,Former smoker,None
+1222,Cody Arnold,46,Hypertension,Cholesterol Medication,Latex,Blood Clotting Disorder,Non-smoker,None
+1223,Michelle Lopez,81,Diabetes,Cholesterol Medication,Sulfa Drugs,Heart Disease,Former smoker,Heavy
+1224,Alyssa Hodges,77,Anemia,Antidepressants,Shellfish,Diabetes,Occasional smoker,Moderate
+1225,James Davis,88,Liver Disease,Anti-seizure Medication,Pollen,Cancer,Non-smoker,Moderate
+1226,Sandra Morris,75,Hypertension,Heart Medication,Dust Mites,Stroke,Current smoker,Heavy
+1227,James Ramos,25,No significant history,No ongoing medication,Gluten,Autoimmune Disorders,Occasional smoker,Occasional
+1228,Erica Dickerson,42,Epilepsy,Steroids,Sulfa Drugs,Asthma,Occasional smoker,None
+1229,Pamela Moss,77,Smoking History,Asthma Inhaler,Latex,Kidney Disease,Former smoker,None
+1230,Lance Brown,76,Chronic Obstructive Pulmonary Disease (COPD),Insulin,Dust Mites,Hypertension,Current smoker,Occasional
+1231,Jared Davis,28,Anemia,Antibiotics,NSAIDs,Cancer,Former smoker,Moderate
+1232,Amber Craig,23,No significant history,Blood Thinners,Peanuts,Autoimmune Disorders,Occasional smoker,Moderate
+1233,Jeffrey Lewis,25,Tuberculosis,Painkillers,Certain Antibiotics,Autoimmune Disorders,Former smoker,Moderate
+1234,Michael Haas,29,Blood Clotting Disorder,Painkillers,Dust Mites,Stroke,Current smoker,None
+1235,Brittany Ramos,86,Migraine,Anti-seizure Medication,Peanuts,No known family history,Non-smoker,Heavy
+1236,Stephanie Johnson,51,Blood Clotting Disorder,Anti-seizure Medication,None,Alzheimer's Disease,Occasional smoker,Heavy
+1237,Bryan Moody,72,Hypertension,No ongoing medication,Lactose,Cancer,Occasional smoker,Occasional
+1238,Sharon Rose,47,Drug Allergy,Blood Thinners,None,Cancer,Occasional smoker,Heavy
+1239,John Jackson,21,Previous Stroke,Steroids,Bee Stings,Hypertension,Former smoker,Heavy
+1240,Kristopher Steele,72,Chronic Kidney Disease,Blood Pressure Medication,NSAIDs,Asthma,Current smoker,Occasional
+1241,Brooke Pena,43,Heart Disease,Blood Pressure Medication,Bee Stings,Heart Disease,Non-smoker,None
+1242,William Keller,69,Chronic Kidney Disease,Anti-seizure Medication,Bee Stings,Autoimmune Disorders,Occasional smoker,Heavy
+1243,Jack Tran,81,No significant history,Antidepressants,None,Alzheimer's Disease,Non-smoker,Heavy
+1244,Mary Thomas,52,Heart Disease,Antibiotics,None,Alzheimer's Disease,Current smoker,Occasional
+1245,Randy Odom,34,Tuberculosis,Heart Medication,Peanuts,Asthma,Non-smoker,Heavy
+1246,Joshua Jackson,44,Chronic Obstructive Pulmonary Disease (COPD),Heart Medication,Peanuts,Alcoholism,Occasional smoker,Heavy
+1247,Ronald Hernandez,47,Past Surgeries,Cholesterol Medication,NSAIDs,Epilepsy,Non-smoker,Heavy
+1248,Lynn Williams,46,Epilepsy,Asthma Inhaler,Gluten,Asthma,Occasional smoker,None
+1249,Tami Dawson,32,Arthritis,Cholesterol Medication,Peanuts,Depression,Former smoker,Heavy
+1250,Ann Rice,27,Chronic Obstructive Pulmonary Disease (COPD),Antibiotics,Latex,Epilepsy,Current smoker,None
+1251,Kelli Fitzgerald,62,Migraine,Blood Pressure Medication,Animal Dander,Stroke,Current smoker,Heavy
+1252,Joel Wood,60,Past Surgeries,Insulin,Penicillin,Alzheimer's Disease,Non-smoker,Moderate
+1253,Erika Miller,61,Previous Stroke,Cholesterol Medication,Shellfish,Epilepsy,Non-smoker,None
+1254,Terry Kent,23,Previous Stroke,Antidepressants,Shellfish,Autoimmune Disorders,Occasional smoker,Moderate
+1255,Daniel Le,73,Liver Disease,Antidepressants,Pollen,Asthma,Occasional smoker,Heavy
+1256,Adam Harris,27,Epilepsy,Anti-seizure Medication,Bee Stings,Autoimmune Disorders,Former smoker,Heavy
+1257,Darren Ortega,44,No significant history,Antidepressants,Animal Dander,Epilepsy,Former smoker,None
+1258,Travis Strong,48,Tuberculosis,Asthma Inhaler,Certain Antibiotics,Epilepsy,Occasional smoker,Occasional
+1259,Darrell Mueller,43,Previous Stroke,Blood Pressure Medication,Shellfish,Epilepsy,Current smoker,None
+1260,Elijah Green,43,Hypertension,Asthma Inhaler,Dust Mites,Hypertension,Non-smoker,Moderate
+1261,Robert Wolf,80,Chronic Kidney Disease,Painkillers,Latex,Cancer,Non-smoker,None
+1262,Stacy Davis,21,Tuberculosis,Antidepressants,Animal Dander,No known family history,Former smoker,None
+1263,Nicole Byrd,50,Alcohol Dependency,Asthma Inhaler,Lactose,Depression,Current smoker,Heavy
+1264,Thomas Mcdonald,25,Tuberculosis,Blood Pressure Medication,Certain Antibiotics,Epilepsy,Former smoker,None
+1265,David Johnson,90,Past Surgeries,Steroids,Certain Antibiotics,Epilepsy,Non-smoker,Moderate
+1266,Sandra Green,25,Diabetes,Blood Pressure Medication,None,Diabetes,Non-smoker,Moderate
+1267,Nancy Collins,19,Past Surgeries,No ongoing medication,Lactose,Heart Disease,Non-smoker,Moderate
+1268,Brandon Cooper,58,Heart Disease,Anti-seizure Medication,Latex,Diabetes,Non-smoker,Heavy
+1269,Heather Ortiz,59,Heart Disease,Insulin,Sulfa Drugs,Blood Clotting Disorder,Non-smoker,Occasional
+1270,Lindsey Parker,48,Chronic Kidney Disease,Cholesterol Medication,Lactose,Autoimmune Disorders,Non-smoker,Moderate
+1271,Janet Perez,46,Chronic Obstructive Pulmonary Disease (COPD),Insulin,Pollen,Blood Clotting Disorder,Former smoker,Occasional
+1272,Michelle Reilly,37,Heart Disease,Painkillers,Gluten,Hypertension,Occasional smoker,Heavy
+1273,Juan Williams,44,Past Surgeries,Antidepressants,NSAIDs,Hypertension,Former smoker,Heavy
+1274,Marcus Fields,71,Liver Disease,Antibiotics,Sulfa Drugs,Arthritis,Current smoker,Occasional
+1275,Courtney David,37,Arthritis,No ongoing medication,Penicillin,Autoimmune Disorders,Former smoker,Occasional
+1276,Justin Gallagher,72,Tuberculosis,Antibiotics,Animal Dander,Heart Disease,Non-smoker,Occasional
+1277,Oscar Bruce,44,Chronic Kidney Disease,Blood Pressure Medication,Penicillin,Stroke,Current smoker,Moderate
+1278,Anthony Hughes,35,Chronic Kidney Disease,Steroids,None,Hypertension,Occasional smoker,Moderate
+1279,Victoria Moran,33,Chronic Obstructive Pulmonary Disease (COPD),Insulin,Dust Mites,Alzheimer's Disease,Occasional smoker,Moderate
+1280,Wendy Jacobs,67,Epilepsy,Cholesterol Medication,Bee Stings,Epilepsy,Non-smoker,None
+1281,Dr. Jeremy Mcintyre III,31,Anemia,Antidepressants,Gluten,Blood Clotting Disorder,Former smoker,Heavy
+1282,Christopher Murray,71,Asthma,Heart Medication,Pollen,Alzheimer's Disease,Occasional smoker,Occasional
+1283,Ronnie Haas,52,Smoking History,Asthma Inhaler,Shellfish,Blood Clotting Disorder,Occasional smoker,None
+1284,Jimmy Lopez,87,Blood Clotting Disorder,Painkillers,Penicillin,Kidney Disease,Non-smoker,None
+1285,Tammy Guzman,54,Previous Stroke,Anti-seizure Medication,Pollen,Diabetes,Former smoker,Occasional
+1286,Jason Watts,65,Smoking History,Steroids,Bee Stings,Kidney Disease,Current smoker,Occasional
+1287,Marissa Allen,89,Epilepsy,No ongoing medication,Dust Mites,Asthma,Former smoker,Heavy
+1288,Gina Thompson,61,Asthma,Blood Thinners,Shellfish,Autoimmune Disorders,Current smoker,None
+1289,Sonia Massey,39,Chronic Obstructive Pulmonary Disease (COPD),Anti-seizure Medication,Dust Mites,Blood Clotting Disorder,Current smoker,Occasional
+1290,David Bruce,31,Drug Allergy,Anti-seizure Medication,NSAIDs,Heart Disease,Non-smoker,Heavy
+1291,Kimberly Doyle,40,Tuberculosis,Cholesterol Medication,Animal Dander,Stroke,Occasional smoker,Heavy
+1292,John Thomas,52,Alcohol Dependency,Antidepressants,Pollen,Hypertension,Former smoker,Heavy
+1293,Jacob Pittman,32,Migraine,Antidepressants,Latex,Cancer,Former smoker,Heavy
+1294,John Strickland,45,Heart Disease,Painkillers,Pollen,Stroke,Occasional smoker,None
+1295,Jenny Paul,18,Epilepsy,Blood Thinners,Lactose,Depression,Non-smoker,Occasional
+1296,Leslie Hood,37,Epilepsy,Cholesterol Medication,None,Autoimmune Disorders,Occasional smoker,Moderate
+1297,Tamara Floyd,35,Epilepsy,Blood Thinners,Gluten,Alcoholism,Current smoker,Heavy
+1298,Dennis Fernandez,20,Blood Clotting Disorder,Steroids,Gluten,Cancer,Former smoker,None
+1299,Dustin Drake,59,Heart Disease,Anti-seizure Medication,Dust Mites,Diabetes,Current smoker,Heavy
+1300,Kristen Holder,39,Hypertension,Blood Pressure Medication,Dust Mites,No known family history,Occasional smoker,Occasional
+1301,Jessica Mcmillan,69,Epilepsy,Steroids,None,Cancer,Non-smoker,Heavy
+1302,Brian Hubbard,75,Liver Disease,Antidepressants,Latex,No known family history,Occasional smoker,Occasional
+1303,Leslie Ramos,65,Migraine,Anti-seizure Medication,Shellfish,Cancer,Occasional smoker,Occasional
+1304,Matthew Mendoza,59,Liver Disease,Insulin,Peanuts,Alzheimer's Disease,Former smoker,Moderate
+1305,Julia Bailey,82,Previous Stroke,Heart Medication,Bee Stings,Diabetes,Non-smoker,Heavy
+1306,Monica Huerta,22,Arthritis,Asthma Inhaler,Eggs,Epilepsy,Non-smoker,Occasional
+1307,Aaron Keith,81,Asthma,Antibiotics,Penicillin,Stroke,Former smoker,Occasional
+1308,Cody Haynes,56,Anemia,Anti-seizure Medication,NSAIDs,Epilepsy,Former smoker,None
+1309,Adam Aguilar,84,Blood Clotting Disorder,Asthma Inhaler,None,Asthma,Current smoker,Moderate
+1310,Suzanne Daniel,82,No significant history,Blood Pressure Medication,Animal Dander,Depression,Former smoker,Occasional
+1311,Calvin Campbell,43,Chronic Obstructive Pulmonary Disease (COPD),Painkillers,Animal Dander,Asthma,Current smoker,Moderate
+1312,Holly Reynolds,50,Chronic Obstructive Pulmonary Disease (COPD),Asthma Inhaler,Bee Stings,Epilepsy,Occasional smoker,Moderate
+1313,Mary Robles,30,Cancer Treatment,Steroids,None,Blood Clotting Disorder,Current smoker,None
+1314,David Brown,61,Diabetes,Steroids,Peanuts,Epilepsy,Non-smoker,Occasional
+1315,Dawn Patterson,39,Alcohol Dependency,Insulin,Gluten,Depression,Former smoker,Moderate
+1316,Heather Weaver,35,Past Surgeries,Anti-seizure Medication,Latex,Stroke,Former smoker,Moderate
+1317,Natalie Yang,20,Liver Disease,Cholesterol Medication,Bee Stings,Kidney Disease,Non-smoker,Occasional
+1318,Robert Rodriguez,34,No significant history,Antidepressants,None,Heart Disease,Occasional smoker,Heavy
+1319,Samuel Smith,69,Anemia,Steroids,Peanuts,Cancer,Current smoker,Moderate
+1320,Melissa Poole,22,Alcohol Dependency,Insulin,Gluten,Alcoholism,Occasional smoker,Moderate
+1321,Lisa Wagner,36,No significant history,No ongoing medication,None,Autoimmune Disorders,Former smoker,Occasional
+1322,Brianna Nguyen,58,Alcohol Dependency,No ongoing medication,Dust Mites,Kidney Disease,Current smoker,None
+1323,Daryl Lutz,19,Epilepsy,Painkillers,Certain Antibiotics,Epilepsy,Non-smoker,Heavy
+1324,Barbara Thomas,74,Liver Disease,Antidepressants,Peanuts,Asthma,Current smoker,Heavy
+1325,Monique Cook,56,Heart Disease,Heart Medication,Latex,Diabetes,Former smoker,Moderate
+1326,Anthony Garcia,44,Tuberculosis,Blood Thinners,Shellfish,Diabetes,Non-smoker,Occasional
+1327,Katie Miller,36,Arthritis,Anti-seizure Medication,Penicillin,Blood Clotting Disorder,Non-smoker,Heavy
+1328,Jacob Townsend,84,Previous Stroke,Steroids,Latex,Autoimmune Disorders,Current smoker,Heavy
+1329,Kyle Knight,48,Chronic Obstructive Pulmonary Disease (COPD),Insulin,Lactose,Asthma,Current smoker,Heavy
+1330,Makayla Fowler,28,Migraine,Antidepressants,Bee Stings,Kidney Disease,Non-smoker,Heavy
+1331,Erin Garrison,49,Tuberculosis,No ongoing medication,Pollen,Hypertension,Current smoker,Occasional
+1332,Jasmine Butler,20,Alcohol Dependency,Asthma Inhaler,Penicillin,Epilepsy,Non-smoker,Heavy
+1333,Christopher Terry,34,Heart Disease,Anti-seizure Medication,NSAIDs,Alcoholism,Former smoker,Heavy
+1334,Edward Lambert,27,Asthma,Painkillers,None,Alcoholism,Current smoker,Heavy
+1335,Kurt James,51,Chronic Obstructive Pulmonary Disease (COPD),Blood Pressure Medication,Pollen,Blood Clotting Disorder,Non-smoker,None
+1336,William Campbell,46,Migraine,Blood Thinners,Gluten,Epilepsy,Current smoker,Occasional
+1337,Thomas Stark,60,Anemia,Antidepressants,Peanuts,Depression,Current smoker,Heavy
+1338,Lisa Smith,50,Heart Disease,Cholesterol Medication,Bee Stings,Asthma,Non-smoker,Moderate
+1339,Dustin Dixon,27,Blood Clotting Disorder,Steroids,Lactose,No known family history,Non-smoker,Heavy
+1340,Ashley Byrd,80,Tuberculosis,Blood Pressure Medication,Penicillin,Asthma,Current smoker,Heavy
+1341,Christina Thompson,35,Asthma,Heart Medication,Dust Mites,Hypertension,Occasional smoker,Heavy
+1342,Robert Reese,24,Liver Disease,Blood Pressure Medication,Penicillin,Epilepsy,Occasional smoker,Occasional
+1343,Larry Carter,73,Chronic Kidney Disease,Steroids,Lactose,Diabetes,Non-smoker,Heavy
+1344,Dr. Marie Davis,80,Hypertension,Antibiotics,Eggs,Stroke,Occasional smoker,Heavy
+1345,Samuel Lowe,36,Drug Allergy,No ongoing medication,Eggs,Alzheimer's Disease,Former smoker,Occasional
+1346,Chris Galvan,30,Epilepsy,Antibiotics,Eggs,Heart Disease,Occasional smoker,Moderate
+1347,Andrea Roberts,49,Asthma,No ongoing medication,Shellfish,Autoimmune Disorders,Current smoker,Moderate
+1348,Katrina Moore,42,Diabetes,Blood Pressure Medication,Latex,Hypertension,Current smoker,Heavy
+1349,Meagan Schroeder,64,Hypertension,Asthma Inhaler,Animal Dander,Blood Clotting Disorder,Current smoker,Heavy
+1350,Hannah Miles,19,Cancer Treatment,Blood Pressure Medication,None,Cancer,Non-smoker,Heavy
+1351,Stephen Bolton,86,Asthma,Asthma Inhaler,Dust Mites,Autoimmune Disorders,Former smoker,None
+1352,Lawrence Reid,21,Hypertension,Asthma Inhaler,Dust Mites,Cancer,Occasional smoker,Heavy
+1353,Diane Price,37,No significant history,Asthma Inhaler,Animal Dander,Alzheimer's Disease,Non-smoker,Heavy
+1354,James Branch,36,Migraine,Insulin,None,Stroke,Former smoker,Occasional
+1355,Holly Davis DVM,66,Heart Disease,Heart Medication,Pollen,Hypertension,Occasional smoker,None
+1356,Diana Patterson,42,Epilepsy,No ongoing medication,Certain Antibiotics,Epilepsy,Occasional smoker,Occasional
+1357,Melanie Burnett,38,Arthritis,Heart Medication,Eggs,Heart Disease,Current smoker,Heavy
+1358,Lynn Lewis,63,Previous Stroke,Blood Thinners,Dust Mites,Cancer,Current smoker,Moderate
+1359,Denise Conner,39,Smoking History,Blood Pressure Medication,Sulfa Drugs,Kidney Disease,Non-smoker,Heavy
+1360,Micheal Fuentes,90,Hypertension,Blood Thinners,Pollen,Hypertension,Former smoker,Moderate
+1361,Judith Stanton,26,Smoking History,Blood Thinners,Sulfa Drugs,Stroke,Non-smoker,Occasional
+1362,Daniel Fischer,85,No significant history,Cholesterol Medication,Lactose,Arthritis,Current smoker,Moderate
+1363,Bryan Huynh,87,Previous Stroke,Heart Medication,Latex,No known family history,Former smoker,Occasional
+1364,Chris Sutton,18,Epilepsy,Blood Thinners,Peanuts,Asthma,Occasional smoker,None
+1365,Latoya Robertson,38,Chronic Kidney Disease,No ongoing medication,Animal Dander,Asthma,Non-smoker,Heavy
+1366,Donald Casey,28,Drug Allergy,Asthma Inhaler,Shellfish,Cancer,Former smoker,Occasional
+1367,Juan Potter,44,Past Surgeries,Steroids,Penicillin,Cancer,Current smoker,Occasional
+1368,Loretta Eaton,66,Past Surgeries,Anti-seizure Medication,Gluten,Hypertension,Current smoker,Moderate
+1369,Lisa Simon,29,Alcohol Dependency,Anti-seizure Medication,NSAIDs,Epilepsy,Non-smoker,None
+1370,Jeremiah Hernandez,47,Cancer Treatment,No ongoing medication,Dust Mites,Blood Clotting Disorder,Non-smoker,Moderate
+1371,Julie Lyons,57,Anemia,Antibiotics,Penicillin,Blood Clotting Disorder,Former smoker,Moderate
+1372,Stacey Perkins,31,Diabetes,Antibiotics,Bee Stings,Asthma,Current smoker,None
+1373,Penny Miller,58,Past Surgeries,Blood Pressure Medication,Bee Stings,Blood Clotting Disorder,Current smoker,None
+1374,Mary Martinez,59,Migraine,Anti-seizure Medication,Penicillin,Cancer,Occasional smoker,Occasional
+1375,Amy Robbins,21,Liver Disease,Asthma Inhaler,Peanuts,Kidney Disease,Non-smoker,Moderate
+1376,Peter Higgins,54,Blood Clotting Disorder,Insulin,NSAIDs,Alzheimer's Disease,Current smoker,None
+1377,Sandra Obrien MD,64,Asthma,No ongoing medication,NSAIDs,Kidney Disease,Former smoker,Occasional
+1378,Shawn Schmidt,33,Hypertension,Anti-seizure Medication,None,Alzheimer's Disease,Former smoker,Moderate
+1379,Gregory Jenkins,68,Asthma,No ongoing medication,Animal Dander,Asthma,Non-smoker,Occasional
+1380,Patricia Greer,47,Anemia,Heart Medication,NSAIDs,Autoimmune Disorders,Former smoker,Moderate
+1381,Michael Williams PhD,86,Arthritis,Asthma Inhaler,Penicillin,Depression,Occasional smoker,Moderate
+1382,Lisa Williams,76,Previous Stroke,Painkillers,Pollen,Cancer,Occasional smoker,Heavy
+1383,Lindsay Martin,74,Asthma,Antibiotics,Shellfish,Heart Disease,Former smoker,Heavy
+1384,Melissa Russo,29,Epilepsy,Anti-seizure Medication,Eggs,Stroke,Non-smoker,Moderate
+1385,Jesus Webb,86,Chronic Kidney Disease,Insulin,Dust Mites,Depression,Current smoker,Occasional
+1386,Jason Cole,28,Blood Clotting Disorder,Cholesterol Medication,Pollen,Heart Disease,Current smoker,None
+1387,Ethan Thompson,67,Heart Disease,Insulin,Latex,Diabetes,Non-smoker,Occasional
+1388,Robert Smith,58,No significant history,Blood Thinners,Lactose,Alzheimer's Disease,Current smoker,Moderate
+1389,Bryan Peterson,50,Diabetes,Heart Medication,Shellfish,Heart Disease,Current smoker,None
+1390,Victor Young,66,Anemia,Blood Thinners,Eggs,Heart Disease,Current smoker,None
+1391,Christy Sheppard,52,Smoking History,Steroids,Animal Dander,Depression,Occasional smoker,Moderate
+1392,James Perez,80,Tuberculosis,Insulin,Shellfish,Alcoholism,Current smoker,None
+1393,Danielle Garcia,70,Cancer Treatment,Blood Pressure Medication,Bee Stings,Stroke,Occasional smoker,Occasional
+1394,Kenneth Jones,64,Arthritis,Insulin,NSAIDs,No known family history,Non-smoker,Heavy
+1395,Mathew Dawson,22,Diabetes,Antibiotics,Shellfish,Epilepsy,Former smoker,Heavy
+1396,Frank Rivera,90,Diabetes,Antibiotics,Lactose,Stroke,Current smoker,Heavy
+1397,Kimberly Atkins,64,No significant history,Anti-seizure Medication,Sulfa Drugs,Cancer,Former smoker,Occasional
+1398,Barbara Williams,90,Hypertension,Cholesterol Medication,Lactose,Kidney Disease,Occasional smoker,Occasional
+1399,Anna Sanders,36,Diabetes,Asthma Inhaler,Shellfish,Alcoholism,Non-smoker,Moderate
+1400,Anthony Barton,40,Epilepsy,Painkillers,Latex,Cancer,Non-smoker,None
+1401,Melissa Williams,80,Hypertension,Antibiotics,Certain Antibiotics,Stroke,Former smoker,Heavy
+1402,Emma Gonzalez,33,Previous Stroke,Steroids,Certain Antibiotics,No known family history,Non-smoker,Moderate
+1403,Hailey Hamilton,65,Chronic Obstructive Pulmonary Disease (COPD),Antidepressants,Animal Dander,Arthritis,Occasional smoker,None
+1404,Richard Lewis,83,Arthritis,Steroids,NSAIDs,Stroke,Current smoker,Occasional
+1405,Kelly Baker,33,Asthma,Painkillers,Lactose,Alzheimer's Disease,Non-smoker,Heavy
+1406,Valerie Pratt,42,Chronic Obstructive Pulmonary Disease (COPD),Steroids,NSAIDs,Heart Disease,Non-smoker,Heavy
+1407,Ashley Vincent,46,Chronic Kidney Disease,Painkillers,Eggs,Autoimmune Disorders,Former smoker,Heavy
+1408,Julian Murray,85,Heart Disease,Cholesterol Medication,Pollen,Alcoholism,Current smoker,Occasional
+1409,Wesley Lee,28,Arthritis,Painkillers,NSAIDs,Asthma,Former smoker,Moderate
+1410,Jessica Middleton,33,Chronic Kidney Disease,Painkillers,Peanuts,Hypertension,Current smoker,Occasional
+1411,Shirley Jenkins,59,Previous Stroke,Blood Pressure Medication,Penicillin,Asthma,Non-smoker,Moderate
+1412,Michelle Foster,80,Chronic Kidney Disease,No ongoing medication,NSAIDs,Alcoholism,Current smoker,Occasional
+1413,Tyler Jones,67,Diabetes,Heart Medication,Certain Antibiotics,Cancer,Non-smoker,Heavy
+1414,Dr. Jeffrey Salazar,81,Arthritis,Antidepressants,Pollen,Alcoholism,Occasional smoker,None
+1415,Jodi Butler,60,Cancer Treatment,Heart Medication,None,Depression,Current smoker,Moderate
+1416,Xavier Potts,70,Heart Disease,Insulin,Peanuts,Alcoholism,Occasional smoker,Heavy
+1417,Robert Spencer,24,Liver Disease,Heart Medication,NSAIDs,Cancer,Occasional smoker,Heavy
+1418,Carlos Wright,56,No significant history,Cholesterol Medication,Dust Mites,Hypertension,Non-smoker,Occasional
+1419,Brandon Porter,29,Epilepsy,Insulin,Latex,No known family history,Occasional smoker,None
+1420,Joseph Wagner,57,Asthma,Antidepressants,Eggs,Asthma,Non-smoker,None
+1421,Timothy Owens,54,Tuberculosis,Heart Medication,Pollen,Hypertension,Non-smoker,Moderate
+1422,Kenneth Ramirez,46,Migraine,Asthma Inhaler,Latex,Kidney Disease,Non-smoker,Occasional
+1423,Nicholas Jordan,55,Asthma,Steroids,Dust Mites,Alzheimer's Disease,Former smoker,None
+1424,Robert Davidson,82,Chronic Obstructive Pulmonary Disease (COPD),Steroids,Certain Antibiotics,Arthritis,Former smoker,None
+1425,Bradley Phillips,81,Blood Clotting Disorder,Cholesterol Medication,Pollen,Asthma,Former smoker,Heavy
+1426,Chad Holland,29,Smoking History,Insulin,Lactose,Asthma,Non-smoker,None
+1427,Beverly Smith,80,Hypertension,Blood Pressure Medication,Certain Antibiotics,Stroke,Occasional smoker,None
+1428,Katelyn Roberts,87,Alcohol Dependency,Cholesterol Medication,Pollen,Hypertension,Former smoker,Heavy
+1429,Adam Acevedo,77,Previous Stroke,Insulin,Lactose,Epilepsy,Former smoker,Occasional
+1430,April Gibson,35,Liver Disease,Antidepressants,Sulfa Drugs,Epilepsy,Former smoker,Heavy
+1431,Ryan Johnston,55,Arthritis,Blood Thinners,Certain Antibiotics,Alcoholism,Occasional smoker,Moderate
+1432,Jose Lee,50,Diabetes,Antibiotics,Latex,Heart Disease,Current smoker,Occasional
+1433,Sean Barton,22,Smoking History,Painkillers,Peanuts,Stroke,Occasional smoker,Occasional
+1434,William Travis,65,Past Surgeries,Painkillers,Gluten,Alzheimer's Disease,Occasional smoker,Heavy
+1435,Jason Blackwell,89,Chronic Obstructive Pulmonary Disease (COPD),Insulin,Latex,Epilepsy,Occasional smoker,Occasional
+1436,Megan Miller,54,Arthritis,Insulin,Lactose,Alzheimer's Disease,Non-smoker,Moderate
+1437,Edward Clark,58,Epilepsy,Antibiotics,None,Kidney Disease,Former smoker,Heavy
+1438,Ronnie Ruiz,24,Blood Clotting Disorder,No ongoing medication,Animal Dander,Epilepsy,Occasional smoker,Heavy
+1439,Michaela Davidson,85,Chronic Kidney Disease,Antibiotics,Penicillin,Stroke,Occasional smoker,Heavy
+1440,Ricky Williams,39,Tuberculosis,Anti-seizure Medication,Lactose,Autoimmune Disorders,Current smoker,Occasional
+1441,Theodore Cortez,73,Arthritis,Steroids,Penicillin,Epilepsy,Current smoker,None
+1442,Christopher Rivera,65,Liver Disease,Antibiotics,NSAIDs,Epilepsy,Former smoker,Heavy
+1443,Christopher Walsh,24,Hypertension,Blood Thinners,Certain Antibiotics,Diabetes,Non-smoker,Moderate
+1444,Matthew Brown,69,Asthma,Painkillers,Latex,Blood Clotting Disorder,Former smoker,Heavy
+1445,Jordan Mcgee,87,Tuberculosis,No ongoing medication,Shellfish,Asthma,Current smoker,Moderate
+1446,Jason Stewart,56,Past Surgeries,Asthma Inhaler,Eggs,Arthritis,Occasional smoker,Heavy
+1447,Robert Ward,71,Hypertension,Antidepressants,Sulfa Drugs,Stroke,Former smoker,Occasional
+1448,Deanna Stewart,32,Arthritis,Steroids,Sulfa Drugs,Hypertension,Former smoker,Moderate
+1449,Dr. Rebecca Roberts,66,Past Surgeries,Heart Medication,Animal Dander,Heart Disease,Non-smoker,Moderate
+1450,Lauren Bell,50,Tuberculosis,Cholesterol Medication,Bee Stings,Alzheimer's Disease,Occasional smoker,None
+1451,Kenneth Clark,49,Migraine,Insulin,Pollen,Cancer,Non-smoker,Moderate
+1452,Julie Stone,41,Heart Disease,Blood Pressure Medication,Animal Dander,Asthma,Non-smoker,Moderate
+1453,Bianca Jarvis,76,No significant history,Antibiotics,Latex,Diabetes,Former smoker,Heavy
+1454,Stacey Morse,49,Chronic Obstructive Pulmonary Disease (COPD),Cholesterol Medication,Certain Antibiotics,No known family history,Non-smoker,Moderate
+1455,Joanna Flores,66,No significant history,Asthma Inhaler,Pollen,Kidney Disease,Current smoker,Moderate
+1456,Brittany Ruiz,73,Heart Disease,Blood Pressure Medication,Sulfa Drugs,Cancer,Former smoker,Occasional
+1457,Michael Martinez,27,Chronic Kidney Disease,Painkillers,Latex,Blood Clotting Disorder,Former smoker,Moderate
+1458,Joseph Martin,80,Smoking History,Blood Thinners,Certain Antibiotics,Cancer,Occasional smoker,None
+1459,Anthony Gilbert,60,Past Surgeries,Insulin,Shellfish,Heart Disease,Non-smoker,Occasional
+1460,Rebecca Mack,53,Migraine,Blood Thinners,NSAIDs,Hypertension,Former smoker,None
+1461,Aaron Campbell,18,Anemia,Blood Thinners,Penicillin,No known family history,Current smoker,Heavy
+1462,Kelly Fisher,29,Tuberculosis,Insulin,Gluten,Depression,Non-smoker,None
+1463,Sally May,48,Chronic Kidney Disease,Anti-seizure Medication,Certain Antibiotics,Hypertension,Current smoker,Occasional
+1464,Nichole Vazquez,19,Hypertension,Cholesterol Medication,Pollen,Epilepsy,Former smoker,None
+1465,Nancy Campbell,64,Liver Disease,Cholesterol Medication,Pollen,Asthma,Former smoker,Heavy
+1466,Trevor Alvarez,31,Chronic Kidney Disease,Blood Thinners,Dust Mites,Autoimmune Disorders,Former smoker,Heavy
+1467,Cheryl Avery,35,Arthritis,No ongoing medication,Gluten,Arthritis,Former smoker,Heavy
+1468,Pamela Jackson,62,Hypertension,Antibiotics,Pollen,Hypertension,Former smoker,Heavy
+1469,Zachary Molina,54,Blood Clotting Disorder,No ongoing medication,Eggs,Blood Clotting Disorder,Non-smoker,Moderate
+1470,George Johnson,39,Smoking History,Antibiotics,Certain Antibiotics,Diabetes,Non-smoker,Moderate
+1471,Danielle Mcdowell,70,Alcohol Dependency,Antibiotics,Lactose,Depression,Former smoker,None
+1472,Lawrence Hopkins,26,Drug Allergy,Anti-seizure Medication,Eggs,Blood Clotting Disorder,Former smoker,Occasional
+1473,Michelle Cook,52,Liver Disease,Steroids,Latex,Epilepsy,Current smoker,Occasional
+1474,Veronica Matthews,44,Arthritis,Steroids,Animal Dander,Alzheimer's Disease,Former smoker,None
+1475,Morgan Irwin,67,Cancer Treatment,Asthma Inhaler,Shellfish,Blood Clotting Disorder,Non-smoker,Occasional
+1476,Eddie Leon,66,No significant history,Blood Thinners,Pollen,Hypertension,Non-smoker,Occasional
+1477,Jeffrey Moon,75,Previous Stroke,Steroids,Animal Dander,Stroke,Former smoker,None
+1478,Michael Medina,76,Tuberculosis,Asthma Inhaler,Shellfish,Kidney Disease,Former smoker,Moderate
+1479,Heather Young,26,Blood Clotting Disorder,Anti-seizure Medication,Gluten,Heart Disease,Occasional smoker,Occasional
+1480,Elizabeth David,89,Past Surgeries,Antibiotics,Pollen,Epilepsy,Former smoker,Occasional
+1481,Brad Reyes,61,Epilepsy,Heart Medication,Lactose,Hypertension,Former smoker,Heavy
+1482,Nicholas Garrett,41,Past Surgeries,No ongoing medication,Animal Dander,Depression,Current smoker,Occasional
+1483,Courtney Santos,70,Heart Disease,Painkillers,Lactose,Arthritis,Current smoker,None
+1484,Samantha Mitchell,84,Past Surgeries,Blood Pressure Medication,Bee Stings,Heart Disease,Occasional smoker,Moderate
+1485,Mark Pratt,37,Liver Disease,Blood Pressure Medication,Eggs,Hypertension,Occasional smoker,Moderate
+1486,Melinda Watkins,90,Cancer Treatment,Painkillers,Certain Antibiotics,Cancer,Occasional smoker,Occasional
+1487,Lacey Wagner,46,Chronic Kidney Disease,Anti-seizure Medication,Peanuts,Alzheimer's Disease,Current smoker,Heavy
+1488,Gail Sanders,47,Tuberculosis,No ongoing medication,NSAIDs,Stroke,Non-smoker,Heavy
+1489,James Wood,23,Epilepsy,Painkillers,Dust Mites,Stroke,Non-smoker,Moderate
+1490,Diane Hernandez,33,Diabetes,Insulin,Animal Dander,Asthma,Current smoker,Occasional
+1491,Robert Fields,90,Liver Disease,Asthma Inhaler,Dust Mites,Cancer,Occasional smoker,None
+1492,Kevin Merritt,63,Tuberculosis,Asthma Inhaler,Pollen,Autoimmune Disorders,Occasional smoker,Occasional
+1493,Autumn Moore,38,Diabetes,Anti-seizure Medication,Peanuts,Kidney Disease,Former smoker,None
+1494,Melissa Barron,47,Hypertension,Antidepressants,Lactose,Heart Disease,Occasional smoker,None
+1495,Christina Clayton,82,Asthma,Asthma Inhaler,Penicillin,Alcoholism,Current smoker,Occasional
+1496,Harry Mitchell,19,Hypertension,No ongoing medication,Pollen,Diabetes,Current smoker,Occasional
+1497,William Davis,76,Tuberculosis,Insulin,Dust Mites,Alzheimer's Disease,Occasional smoker,None
+1498,Julian Gonzalez,21,Chronic Kidney Disease,Antidepressants,Shellfish,Asthma,Non-smoker,Heavy
+1499,Melissa Hansen,39,Previous Stroke,Steroids,Shellfish,Kidney Disease,Former smoker,Moderate
+1500,James Martin,89,Hypertension,Painkillers,Latex,Arthritis,Current smoker,Heavy

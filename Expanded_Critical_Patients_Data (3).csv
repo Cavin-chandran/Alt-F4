@@ -1,0 +1,501 @@
+Patient_ID,Name,Age,Gender,Condition,Symptoms,Emergency_Treatment_Given,Vital_Signs,Incident_Location,Transport_Time
+1001,Joshua Reed,33,Male,Anaphylactic Shock,Hives or rash,Administer epinephrine,"BP: 70/59, HR: 119, SpO2: 78%","67331 Holly River Apt. 228, Lake Jeremyshire, MI 65438",30 mins
+1002,David Martinez,41,Male,Heat Stroke,Nausea and vomiting,Intravenous fluids,"BP: 117/98, HR: 98, SpO2: 99%","1353 Cody Ports, South Brooke, OR 93681",26 mins
+1003,Martin Harvey,88,Female,Severe Asthma Attack,Wheezing and shortness of breath,Administer steroids,"BP: 140/87, HR: 126, SpO2: 79%","4110 Anthony Drive Apt. 849, East Kayla, GA 45765",16 mins
+1004,Kimberly Hendricks,53,Female,Traffic Accident,Severe bleeding,Apply pressure to bleeding wounds,"BP: 126/79, HR: 106, SpO2: 99%","868 Brennan Plains, New Johnchester, NY 01565",30 mins
+1005,Karen Powell,39,Female,Trauma,Severe bleeding,Administer intravenous fluids,"BP: 113/70, HR: 92, SpO2: 95%","PSC 3971, Box 9767, APO AA 61298",22 mins
+1006,Sabrina Hawkins,18,Female,Hypothermia,Slurred speech,Monitor vitals,"BP: 120/60, HR: 54, SpO2: 90%","Unit 8700 Box 1940, DPO AA 95458",20 mins
+1007,Brian Johnson,40,Male,Anaphylactic Shock,Rapid heart rate,Administer epinephrine,"BP: 88/45, HR: 114, SpO2: 84%","43197 Andrew Groves, Lake Jenniferberg, SC 91359",26 mins
+1008,Angelica Roberts,71,Male,Severe Asthma Attack,Inability to speak full sentences,Administer bronchodilator via nebulizer,"BP: 112/87, HR: 102, SpO2: 77%","2584 Jennifer Hills Suite 114, Port Joshua, CT 68808",17 mins
+1009,Stephanie Burke,63,Female,Heat Stroke,Rapid heart rate,"Cooling measures (ice packs, cool water)","BP: 149/74, HR: 109, SpO2: 95%","31265 Shepherd Spurs, Lake Josephchester, MS 96575",20 mins
+1010,Jason Esparza,59,Female,Severe Asthma Attack,Wheezing and shortness of breath,Administer steroids,"BP: 114/85, HR: 124, SpO2: 82%","796 Watkins Views, Lake Catherine, AK 61695",18 mins
+1011,Jeremy Richmond,23,Male,Severe Asthma Attack,Inability to speak full sentences,Administer steroids,"BP: 135/83, HR: 122, SpO2: 72%","15390 Ralph Forks Apt. 873, New Brandonberg, NY 54861",7 mins
+1012,Jennifer Adkins,43,Male,Stroke,Severe headache with no known cause,Oxygen therapy,"BP: 140/98, HR: 65, SpO2: 92%","263 Danielle Passage, Melindafort, VT 02700",30 mins
+1013,Jessica Haynes,47,Female,Stroke,"Confusion, trouble speaking or understanding speech",Monitor blood pressure,"BP: 151/101, HR: 96, SpO2: 91%","163 Brian Radial Suite 252, Lake Stephanie, MT 70917",11 mins
+1014,Craig Smith,83,Male,Trauma,Difficulty breathing,Administer intravenous fluids,"BP: 106/75, HR: 118, SpO2: 94%","4840 Nunez Burg Suite 244, Port Christineborough, WV 36567",28 mins
+1015,Mitchell Jones,20,Male,Brain Hemorrhage,Sudden severe headache,Control blood pressure,"BP: 177/113, HR: 91, SpO2: 85%","714 David Squares, Millsmouth, NY 93984",6 mins
+1016,Donna Price,23,Female,Brain Hemorrhage,Weakness or numbness in limbs,"Stabilize patient, Transport to neurosurgical unit","BP: 179/121, HR: 71, SpO2: 85%","7913 Charles Lights Apt. 991, New Jillchester, DC 89584",13 mins
+1017,Larry Carroll,74,Female,Severe Asthma Attack,Inability to speak full sentences,Oxygen therapy,"BP: 119/75, HR: 126, SpO2: 72%","USNV Cunningham, FPO AA 61839",30 mins
+1018,Hector Peterson,66,Female,Hypothermia,Slurred speech,Monitor vitals,"BP: 124/72, HR: 53, SpO2: 86%","850 Ashley Mountains Apt. 598, New Amberfurt, ME 33514",6 mins
+1019,Whitney Chavez,86,Female,Severe Asthma Attack,Bluish lips or face,Administer steroids,"BP: 125/82, HR: 103, SpO2: 89%","3274 Reese Forge, East Stevenside, OH 33301",13 mins
+1020,Jeffrey Johnson,86,Female,Traffic Accident,Loss of consciousness,Immobilize fractures,"BP: 114/84, HR: 116, SpO2: 94%","37617 Baldwin Lights, South Erikaview, IN 30547",10 mins
+1021,William Nguyen,63,Male,Anaphylactic Shock,Hives or rash,Administer epinephrine,"BP: 83/49, HR: 121, SpO2: 75%","09031 Cherry Stravenue, South Jamestown, AL 50478",7 mins
+1022,Mrs. Sherry Bennett,70,Female,Severe Asthma Attack,Bluish lips or face,Oxygen therapy,"BP: 135/75, HR: 103, SpO2: 70%","5501 Wells Gateway Suite 606, New Christinaside, AL 71561",22 mins
+1023,Melissa George,51,Male,Trauma,Severe bleeding,Stabilize patient,"BP: 120/76, HR: 80, SpO2: 88%","Unit 0035 Box 0084, DPO AE 30820",24 mins
+1024,Derrick Kaufman,73,Male,Traffic Accident,"Chest pain, difficulty breathing",Immobilize fractures,"BP: 121/82, HR: 120, SpO2: 98%","339 Moreno Creek, Stacyborough, OK 93753",26 mins
+1025,Sara Zhang,20,Female,Heart Attack,Nausea or lightheadedness,Oxygen therapy,"BP: 134/101, HR: 67, SpO2: 92%","44271 Buckley Shoal, Castanedafort, AR 54305",29 mins
+1026,Rachel Castillo,88,Male,Anaphylactic Shock,Loss of consciousness,Oxygen therapy,"BP: 70/59, HR: 128, SpO2: 89%","15326 Klein Ridges Suite 001, Jennifershire, IL 30957",27 mins
+1027,Calvin Anderson,90,Male,Anaphylactic Shock,Loss of consciousness,Administer epinephrine,"BP: 80/50, HR: 108, SpO2: 79%","780 Stephanie Inlet, Timothystad, MA 98276",28 mins
+1028,Jo Lin,40,Male,Brain Hemorrhage,Nausea and vomiting,Control blood pressure,"BP: 176/124, HR: 62, SpO2: 85%","0873 Juan Viaduct, North Alisonfurt, FL 23625",23 mins
+1029,Catherine Carlson,58,Female,Brain Hemorrhage,Loss of consciousness,Administer oxygen,"BP: 198/124, HR: 96, SpO2: 91%","591 Medina Burg, New Jessicafurt, DE 61489",13 mins
+1030,Robert Miller,32,Male,Trauma,Difficulty breathing,Administer intravenous fluids,"BP: 120/63, HR: 122, SpO2: 86%","5637 Nelson Meadows Apt. 288, North Walter, CO 20330",12 mins
+1031,Dr. Oscar Washington Jr.,46,Female,Heat Stroke,"Hot, dry skin",Monitor heart rate,"BP: 113/85, HR: 121, SpO2: 97%","718 Samantha Divide Suite 336, Weststad, WY 36329",21 mins
+1032,Natalie Wong,73,Female,Heart Attack,Sweating,Administer aspirin,"BP: 138/86, HR: 101, SpO2: 96%","653 May Junction Apt. 035, West Jerryville, UT 37027",23 mins
+1033,Nicole Cooke,48,Male,Severe Asthma Attack,Inability to speak full sentences,Administer bronchodilator via nebulizer,"BP: 125/77, HR: 109, SpO2: 81%","5728 Hobbs Gateway, Salinasberg, HI 06631",14 mins
+1034,Angela Mann,47,Male,Anaphylactic Shock,Difficulty breathing,Administer epinephrine,"BP: 75/53, HR: 103, SpO2: 83%","473 Thomas Parkways Apt. 610, Lake Emma, MN 11857",26 mins
+1035,Deborah Pierce,64,Male,Anaphylactic Shock,Loss of consciousness,Administer epinephrine,"BP: 90/50, HR: 119, SpO2: 87%","USCGC Cox, FPO AP 64434",7 mins
+1036,Johnny Robinson,79,Male,Heat Stroke,High body temperature (above 104°F or 40°C),Monitor heart rate,"BP: 133/90, HR: 108, SpO2: 92%","80517 Garcia Wall, South Jessica, FL 18318",19 mins
+1037,Ryan Martinez,74,Female,Brain Hemorrhage,Loss of consciousness,"Stabilize patient, Transport to neurosurgical unit","BP: 151/103, HR: 89, SpO2: 90%","52632 Jeffery Springs Suite 726, West Sylviaville, MN 38056",21 mins
+1038,Stephen Morales,41,Male,Stroke,"Sudden numbness or weakness in the face, arm, or leg",Administer clot-busting medication,"BP: 177/117, HR: 74, SpO2: 93%","329 Giles Tunnel Apt. 938, Angiechester, OR 56208",16 mins
+1039,Jenna Porter,39,Female,Heat Stroke,High body temperature (above 104°F or 40°C),Monitor heart rate,"BP: 138/96, HR: 107, SpO2: 98%","812 Johnson Shoals, Shannonland, FL 88602",26 mins
+1040,Mark Martinez,51,Female,Hypothermia,Weak pulse,Administer warm IV fluids,"BP: 112/76, HR: 54, SpO2: 91%","51559 Beth Neck, New Kelsey, ND 28921",23 mins
+1041,Tanya Morgan,18,Female,Severe Asthma Attack,Wheezing and shortness of breath,Administer bronchodilator via nebulizer,"BP: 128/90, HR: 101, SpO2: 77%","9057 Brooks Mountain Apt. 714, East Connieland, MN 59410",6 mins
+1042,Diane Mayer,44,Female,Severe Asthma Attack,Inability to speak full sentences,Oxygen therapy,"BP: 130/74, HR: 118, SpO2: 89%","9545 Keith Flats, North Erika, CO 11191",15 mins
+1043,Rebecca Barber,49,Female,Anaphylactic Shock,Hives or rash,Oxygen therapy,"BP: 87/44, HR: 113, SpO2: 82%","694 Logan Cliffs, East Robin, TN 45685",21 mins
+1044,Maxwell Ramos,85,Female,Heart Attack,Nausea or lightheadedness,Oxygen therapy,"BP: 157/88, HR: 50, SpO2: 94%","087 Coleman Brooks Suite 844, Collinsmouth, NY 24705",27 mins
+1045,Brianna Reynolds,45,Male,Brain Hemorrhage,Loss of consciousness,"Stabilize patient, Transport to neurosurgical unit","BP: 168/126, HR: 95, SpO2: 90%","75948 James Station, New Julie, MD 69447",18 mins
+1046,Matthew Rice,76,Female,Severe Asthma Attack,Inability to speak full sentences,Administer steroids,"BP: 130/87, HR: 130, SpO2: 84%","9566 Greene Ville, Aliciabury, ND 85935",11 mins
+1047,Thomas Clark,38,Female,Brain Hemorrhage,Loss of consciousness,Control blood pressure,"BP: 189/102, HR: 68, SpO2: 87%","7786 Montgomery Plains, New Jeremy, LA 00589",20 mins
+1048,Jennifer Brandt,32,Female,Traffic Accident,Fractures and bone deformity,Administer pain relief,"BP: 111/76, HR: 90, SpO2: 92%","383 James Lake Suite 142, South Lindsayfurt, KY 35805",14 mins
+1049,Brooke Martinez,84,Female,Stroke,"Confusion, trouble speaking or understanding speech",Monitor blood pressure,"BP: 157/111, HR: 74, SpO2: 93%","219 Joseph Shore, Jamesland, RI 52574",9 mins
+1050,Kyle Villarreal,60,Male,Trauma,Difficulty breathing,Administer intravenous fluids,"BP: 115/80, HR: 102, SpO2: 88%","340 Clark Square Suite 031, East Chris, ME 25339",21 mins
+1051,Richard Glass,26,Male,Septic Shock,Confusion and disorientation,Administer IV antibiotics,"BP: 86/42, HR: 104, SpO2: 87%","Unit 7232 Box 3588, DPO AP 51096",12 mins
+1052,Mike King,74,Female,Anaphylactic Shock,Hives or rash,Monitor airway and breathing,"BP: 72/58, HR: 132, SpO2: 85%","4246 Mueller Summit Apt. 421, South Michael, DC 92009",23 mins
+1053,Daniel Holland,25,Female,Trauma,"Shock symptoms (pale, cold skin)",Administer intravenous fluids,"BP: 109/77, HR: 95, SpO2: 88%","USNV Pittman, FPO AE 50839",12 mins
+1054,Brandy Harmon,42,Male,Severe Asthma Attack,Chest tightness,Administer steroids,"BP: 118/70, HR: 126, SpO2: 83%","2430 Lucas Falls Suite 017, South Laurenbury, MN 10285",18 mins
+1055,Benjamin Johnson,48,Male,Traffic Accident,Fractures and bone deformity,Apply pressure to bleeding wounds,"BP: 118/82, HR: 87, SpO2: 93%","662 Mcpherson Mountain, Kristimouth, NJ 77255",21 mins
+1056,Andrew Salazar,25,Male,Heart Attack,Sweating,Administer aspirin,"BP: 145/108, HR: 57, SpO2: 94%","4549 Gonzalez Mission, Lake Teresa, AK 40768",5 mins
+1057,Stephanie Taylor,51,Male,Anaphylactic Shock,Hives or rash,Monitor airway and breathing,"BP: 85/43, HR: 95, SpO2: 89%","497 Matthews Forge, Colemanbury, OK 10059",26 mins
+1058,Rodney Wilson,76,Female,Severe Asthma Attack,Wheezing and shortness of breath,Administer bronchodilator via nebulizer,"BP: 124/86, HR: 118, SpO2: 76%","611 Brady Gardens, Lake Emilyville, NH 79786",24 mins
+1059,Lindsay Fernandez,29,Male,Heat Stroke,High body temperature (above 104°F or 40°C),Monitor heart rate,"BP: 148/73, HR: 112, SpO2: 93%","USS Garza, FPO AA 27406",5 mins
+1060,Joseph Wells,59,Female,Anaphylactic Shock,Swelling of face and throat,Administer epinephrine,"BP: 75/57, HR: 138, SpO2: 90%","9855 Hall Via, Gregoryborough, ND 41145",8 mins
+1061,David Bowman,34,Male,Anaphylactic Shock,Loss of consciousness,Monitor airway and breathing,"BP: 89/45, HR: 103, SpO2: 83%","130 Massey Ways, South Robert, CT 20065",28 mins
+1062,Jennifer Powers,72,Female,Hypothermia,Confusion,Gradual rewarming,"BP: 117/80, HR: 55, SpO2: 89%","USCGC Jacobson, FPO AA 94395",15 mins
+1063,Sean Pugh,82,Female,Septic Shock,High fever,Intravenous fluids,"BP: 70/41, HR: 126, SpO2: 85%","9767 Good Stravenue, Bonillaview, ND 13615",29 mins
+1064,Lindsay Young,29,Female,Hypothermia,Confusion,Gradual rewarming,"BP: 107/72, HR: 53, SpO2: 86%","6183 Cruz Plain Suite 250, East Roberta, RI 96007",25 mins
+1065,Sheri Rangel,66,Male,Brain Hemorrhage,Loss of consciousness,Control blood pressure,"BP: 161/120, HR: 80, SpO2: 90%","56873 Zachary Ports Apt. 136, South Christopher, IA 40960",26 mins
+1066,Lori Reeves,30,Male,Septic Shock,Rapid heart rate,Administer IV antibiotics,"BP: 85/50, HR: 109, SpO2: 80%","241 Johns Mill Apt. 589, Andersonfort, OK 90652",20 mins
+1067,Steven Mclean,28,Male,Septic Shock,Rapid heart rate,Monitor blood pressure,"BP: 88/42, HR: 97, SpO2: 82%","8879 Sandoval Heights, Brandonshire, NE 25864",21 mins
+1068,Jason Wright,90,Female,Stroke,"Confusion, trouble speaking or understanding speech",Oxygen therapy,"BP: 180/95, HR: 89, SpO2: 94%","4280 Trujillo Spring, East Megan, RI 61378",24 mins
+1069,Matthew Ruiz,88,Female,Hypothermia,Loss of coordination,Monitor vitals,"BP: 109/70, HR: 59, SpO2: 87%","57549 Proctor Plain, New Kristinborough, OH 80474",23 mins
+1070,Stephanie Gill,43,Male,Heart Attack,Sweating,Oxygen therapy,"BP: 153/98, HR: 99, SpO2: 98%","17508 Rodney Flat Suite 388, Robertside, HI 76298",21 mins
+1071,Michael Casey,66,Female,Severe Asthma Attack,Bluish lips or face,Administer bronchodilator via nebulizer,"BP: 135/85, HR: 126, SpO2: 71%","6088 Cuevas Station Apt. 733, Myersside, IL 24839",18 mins
+1072,Jeremy Rodriguez,24,Male,Hypothermia,Confusion,Administer warm IV fluids,"BP: 116/72, HR: 67, SpO2: 86%","39773 Sherry Mount, South Donnaside, NJ 58151",12 mins
+1073,Michael Harvey,33,Female,Hypothermia,Shivering,Monitor vitals,"BP: 101/80, HR: 66, SpO2: 93%","909 Pace Isle, Hardingchester, IN 82933",7 mins
+1074,Steven Landry,43,Male,Traffic Accident,Fractures and bone deformity,Immobilize fractures,"BP: 115/80, HR: 92, SpO2: 90%","547 Curry Light Apt. 143, West Debra, ID 68712",25 mins
+1075,Jamie Lawson,65,Female,Severe Asthma Attack,Inability to speak full sentences,Oxygen therapy,"BP: 133/90, HR: 109, SpO2: 89%","USNS Parsons, FPO AP 46176",25 mins
+1076,Patrick Wright,46,Male,Severe Asthma Attack,Bluish lips or face,Oxygen therapy,"BP: 127/86, HR: 125, SpO2: 80%","1614 Ramirez Glens, Michaelville, GA 96601",23 mins
+1077,Terry Parker,41,Male,Septic Shock,Rapid heart rate,Intravenous fluids,"BP: 89/45, HR: 105, SpO2: 87%","04204 Andrews Trace Suite 752, New Jacqueline, UT 89053",25 mins
+1078,Barbara Hall,64,Female,Brain Hemorrhage,Weakness or numbness in limbs,"Stabilize patient, Transport to neurosurgical unit","BP: 157/106, HR: 77, SpO2: 91%","34259 Crosby Stream Apt. 825, North Michelleside, AZ 04690",24 mins
+1079,Becky Sanchez,44,Female,Hypothermia,Loss of coordination,Administer warm IV fluids,"BP: 129/67, HR: 75, SpO2: 88%","118 Kim Crossroad, Sarahchester, RI 70176",10 mins
+1080,Alyssa Shaw,23,Male,Severe Asthma Attack,Chest tightness,Oxygen therapy,"BP: 128/79, HR: 100, SpO2: 76%","06991 Jennifer Curve Suite 998, Catherineside, TX 33146",29 mins
+1081,Mark Brown,25,Female,Trauma,Intense pain,Stabilize patient,"BP: 100/79, HR: 87, SpO2: 86%","2570 Jones Shoals Apt. 311, Mosstown, AL 21388",30 mins
+1082,Emma Brown,83,Female,Hypothermia,Slurred speech,Gradual rewarming,"BP: 130/75, HR: 71, SpO2: 88%","51759 Mckee Roads Suite 723, North Devinmouth, RI 69516",24 mins
+1083,Christopher Hill,55,Female,Anaphylactic Shock,Hives or rash,Monitor airway and breathing,"BP: 85/53, HR: 100, SpO2: 87%","989 Myers Land, Fitzpatrickbury, NJ 01316",29 mins
+1084,Jessica Erickson,71,Male,Heat Stroke,Nausea and vomiting,Monitor heart rate,"BP: 127/97, HR: 93, SpO2: 97%","3623 Raymond Heights Apt. 208, Floresport, LA 21450",24 mins
+1085,Alex Salinas,81,Male,Hypothermia,Weak pulse,Administer warm IV fluids,"BP: 113/78, HR: 59, SpO2: 89%","1885 Steven Parkways, Lake Kevin, MS 08919",5 mins
+1086,Miguel Saunders,55,Female,Severe Asthma Attack,Wheezing and shortness of breath,Administer bronchodilator via nebulizer,"BP: 130/80, HR: 127, SpO2: 78%","1138 Hoffman Junctions Apt. 419, Eddiefurt, NH 49797",14 mins
+1087,Kaitlyn Johnson,68,Female,Stroke,Trouble seeing in one or both eyes,Administer clot-busting medication,"BP: 152/119, HR: 80, SpO2: 91%","658 Aaron Islands, Gallowayton, KS 49998",26 mins
+1088,Jason Delgado,44,Female,Anaphylactic Shock,Rapid heart rate,Monitor airway and breathing,"BP: 78/46, HR: 123, SpO2: 81%","USCGC Wright, FPO AE 18904",13 mins
+1089,Sherry Reed,80,Female,Heart Attack,Chest pain or discomfort,Oxygen therapy,"BP: 138/81, HR: 106, SpO2: 96%","32944 Bowers Fields, Lake Jill, TN 72181",9 mins
+1090,Stephanie George,50,Female,Anaphylactic Shock,Rapid heart rate,Monitor airway and breathing,"BP: 90/40, HR: 136, SpO2: 79%","083 Mack Ferry, East Jasonville, NY 16858",30 mins
+1091,Jessica Shah,41,Male,Brain Hemorrhage,Sudden severe headache,Administer oxygen,"BP: 180/113, HR: 78, SpO2: 87%","047 Anita Trafficway Suite 457, East Deborah, UT 08961",25 mins
+1092,Rebecca Foster,66,Male,Traffic Accident,Severe bleeding,Immobilize fractures,"BP: 118/89, HR: 90, SpO2: 96%","50847 Thompson Plaza, Gatesfort, WI 20611",9 mins
+1093,Cindy Hampton,47,Male,Septic Shock,Low blood pressure,Administer IV antibiotics,"BP: 81/55, HR: 135, SpO2: 86%","612 Patel Dam, West Joseph, OR 52675",5 mins
+1094,Michael Coleman,82,Female,Heart Attack,Shortness of breath,Monitor heart rate and ECG,"BP: 123/109, HR: 115, SpO2: 93%","38412 Christian Crest Suite 689, Alanfort, NV 21623",27 mins
+1095,Amanda Alexander,53,Male,Brain Hemorrhage,Sudden severe headache,Administer oxygen,"BP: 195/127, HR: 69, SpO2: 92%","Unit 7884 Box 2517, DPO AP 32400",11 mins
+1096,Max White,32,Female,Traffic Accident,Fractures and bone deformity,Immobilize fractures,"BP: 126/74, HR: 85, SpO2: 91%","9121 Robinson Key Apt. 677, South Jennaside, NH 26302",15 mins
+1097,Renee Smith,47,Male,Stroke,"Confusion, trouble speaking or understanding speech",Monitor blood pressure,"BP: 171/112, HR: 63, SpO2: 90%","814 Kimberly Lakes, East Natalieshire, DE 07281",10 mins
+1098,Samantha Vargas,76,Male,Septic Shock,Confusion and disorientation,Administer IV antibiotics,"BP: 78/45, HR: 135, SpO2: 84%","326 Hill Springs, North Dylan, VT 17469",22 mins
+1099,James Becker,36,Female,Trauma,Intense pain,Control bleeding,"BP: 100/61, HR: 94, SpO2: 89%","18736 Davis Crossing Suite 739, Lake Haleyport, NH 90197",26 mins
+1100,Andrew Meyer,82,Male,Severe Asthma Attack,Chest tightness,Administer bronchodilator via nebulizer,"BP: 110/80, HR: 130, SpO2: 77%","0927 Wesley Locks Suite 033, Johnsonville, MI 86595",30 mins
+1101,Miguel Copeland,24,Female,Severe Asthma Attack,Inability to speak full sentences,Oxygen therapy,"BP: 140/84, HR: 108, SpO2: 85%","9441 Campbell Mill, New Seanton, TN 35629",5 mins
+1102,Timothy Gutierrez,32,Male,Heat Stroke,Rapid heart rate,Intravenous fluids,"BP: 134/79, HR: 110, SpO2: 91%","524 Richard Parkway, East Shane, FL 84099",27 mins
+1103,Melissa Brown,82,Male,Severe Asthma Attack,Bluish lips or face,Administer steroids,"BP: 119/80, HR: 124, SpO2: 73%","751 Marshall Harbors Apt. 240, South Randyton, IL 06133",7 mins
+1104,Cristina Snow,88,Male,Trauma,Difficulty breathing,Administer intravenous fluids,"BP: 93/77, HR: 109, SpO2: 94%","75456 Crystal Station Suite 948, Theresaland, KS 92335",29 mins
+1105,Connie Gordon,22,Female,Trauma,Severe bleeding,Stabilize patient,"BP: 103/65, HR: 89, SpO2: 92%","Unit 0740 Box 0148, DPO AP 83878",13 mins
+1106,Laura Bryan,54,Male,Heat Stroke,"Hot, dry skin",Monitor heart rate,"BP: 143/71, HR: 122, SpO2: 92%","694 Fox Pines, South Amanda, FL 41494",7 mins
+1107,Audrey Gregory,28,Female,Heat Stroke,Rapid heart rate,Monitor heart rate,"BP: 117/70, HR: 117, SpO2: 94%","921 Jeremy Brooks, East Wayneberg, ID 69683",20 mins
+1108,John Reyes,71,Female,Heat Stroke,Rapid heart rate,"Cooling measures (ice packs, cool water)","BP: 128/82, HR: 90, SpO2: 91%","99273 Jones Ramp Suite 287, Elizabethton, MI 90659",28 mins
+1109,Adrian Acevedo,45,Male,Trauma,"Shock symptoms (pale, cold skin)",Administer intravenous fluids,"BP: 94/79, HR: 107, SpO2: 86%","087 Smith Walks, Dariusside, ME 53083",18 mins
+1110,Nicole Thompson,69,Male,Heart Attack,Chest pain or discomfort,Oxygen therapy,"BP: 139/83, HR: 104, SpO2: 94%","867 Coleman Inlet Apt. 456, East Andrea, VT 04662",25 mins
+1111,Whitney Mckenzie,35,Female,Stroke,Severe headache with no known cause,Administer clot-busting medication,"BP: 179/112, HR: 92, SpO2: 92%","6368 Johnson Garden Suite 666, South Katieport, DE 15526",30 mins
+1112,Ann King,19,Female,Hypothermia,Shivering,Gradual rewarming,"BP: 102/62, HR: 79, SpO2: 94%","370 Eric Corners, East Timothy, MN 08145",9 mins
+1113,Natalie Walker,39,Male,Heart Attack,Shortness of breath,Oxygen therapy,"BP: 160/85, HR: 72, SpO2: 92%","51028 Lloyd Locks, Angelaport, MD 34946",11 mins
+1114,Cheryl Thompson,66,Male,Trauma,Intense pain,Control bleeding,"BP: 116/76, HR: 126, SpO2: 93%","9916 Robles Radial, West Nataliebury, AR 16754",28 mins
+1115,Kimberly Johnson,39,Female,Traffic Accident,Fractures and bone deformity,Apply pressure to bleeding wounds,"BP: 127/84, HR: 93, SpO2: 96%","81091 Jeremy Lake, Michaelchester, TN 39536",30 mins
+1116,Melanie Lee,24,Male,Severe Asthma Attack,Wheezing and shortness of breath,Administer bronchodilator via nebulizer,"BP: 130/76, HR: 107, SpO2: 88%","14472 Corey Squares, Hernandezmouth, FL 35526",10 mins
+1117,Jeremy Wall,67,Female,Severe Asthma Attack,Chest tightness,Oxygen therapy,"BP: 127/82, HR: 117, SpO2: 79%","Unit 7945 Box 1806, DPO AP 34566",16 mins
+1118,Joseph Wallace,69,Male,Brain Hemorrhage,Loss of consciousness,Administer oxygen,"BP: 170/107, HR: 76, SpO2: 88%","11894 Veronica Club, Brendamouth, GA 33071",13 mins
+1119,Jeffrey Rodriguez,23,Male,Trauma,Severe bleeding,Control bleeding,"BP: 98/76, HR: 102, SpO2: 91%","883 Benjamin Plain Suite 670, Clarkberg, MA 55102",12 mins
+1120,Mary Williams,44,Female,Stroke,Trouble seeing in one or both eyes,Monitor blood pressure,"BP: 164/108, HR: 91, SpO2: 93%","799 Hardin Bridge Suite 271, Kathleenview, SD 40148",12 mins
+1121,Kara Stewart,67,Male,Anaphylactic Shock,Hives or rash,Monitor airway and breathing,"BP: 88/50, HR: 127, SpO2: 76%","PSC 2055, Box 3822, APO AA 08577",14 mins
+1122,Julie Blackburn,54,Male,Heat Stroke,Rapid heart rate,"Cooling measures (ice packs, cool water)","BP: 143/85, HR: 106, SpO2: 92%","686 Baker Creek, Lake Cheryl, TN 70189",7 mins
+1123,Adam Mcguire,21,Female,Trauma,Intense pain,Administer intravenous fluids,"BP: 105/70, HR: 85, SpO2: 95%","4638 Joshua Expressway, Walshfurt, VT 96444",30 mins
+1124,Timothy Wolf,65,Female,Traffic Accident,Fractures and bone deformity,Immobilize fractures,"BP: 118/90, HR: 72, SpO2: 91%","590 Allen Coves, Lake Tina, IL 49420",13 mins
+1125,Kenneth Lee,75,Male,Hypothermia,Weak pulse,Administer warm IV fluids,"BP: 106/65, HR: 67, SpO2: 93%","4237 Brown Track, Hermanbury, IN 64441",8 mins
+1126,Robert Jones,83,Female,Heart Attack,Shortness of breath,Administer aspirin,"BP: 155/83, HR: 67, SpO2: 93%","701 Davis Square Apt. 758, Piercefort, OK 70123",21 mins
+1127,Bryan Steele,77,Male,Brain Hemorrhage,Sudden severe headache,"Stabilize patient, Transport to neurosurgical unit","BP: 184/129, HR: 84, SpO2: 91%","5947 Angelica Port, Potterview, IL 70147",22 mins
+1128,Larry Howe,59,Male,Hypothermia,Shivering,Administer warm IV fluids,"BP: 116/77, HR: 70, SpO2: 91%","70556 Patel Crossroad, Kimberlyton, AR 68319",6 mins
+1129,Jessica Juarez,84,Male,Heart Attack,Chest pain or discomfort,Oxygen therapy,"BP: 124/93, HR: 117, SpO2: 94%","20145 Stone Lodge Suite 540, Gregoryport, MT 73716",16 mins
+1130,Patricia Dixon,62,Male,Anaphylactic Shock,Rapid heart rate,Monitor airway and breathing,"BP: 80/50, HR: 107, SpO2: 87%","Unit 6493 Box 7849, DPO AE 60659",18 mins
+1131,Karen Burgess,42,Male,Heart Attack,Shortness of breath,Administer aspirin,"BP: 143/89, HR: 59, SpO2: 93%","1924 Burns Village Suite 832, Stevenbury, OH 22745",7 mins
+1132,Tara Franco,69,Male,Septic Shock,Low blood pressure,Intravenous fluids,"BP: 71/54, HR: 99, SpO2: 84%","53194 Danny Ville Apt. 922, Brockhaven, VA 39153",12 mins
+1133,Barry Hudson,88,Male,Heat Stroke,"Hot, dry skin","Cooling measures (ice packs, cool water)","BP: 127/100, HR: 111, SpO2: 96%","621 Rhonda Plains Apt. 030, Lake Scott, NH 55249",15 mins
+1134,Jennifer Brooks,32,Female,Stroke,"Confusion, trouble speaking or understanding speech",Oxygen therapy,"BP: 140/112, HR: 79, SpO2: 93%","625 Linda Plains Suite 928, Johnmouth, IL 97084",7 mins
+1135,Richard Fox,62,Male,Trauma,Intense pain,Stabilize patient,"BP: 100/80, HR: 99, SpO2: 91%","144 Thomas Mission Apt. 840, Westborough, CT 21668",29 mins
+1136,Rebecca Carter,56,Male,Trauma,Difficulty breathing,Control bleeding,"BP: 103/72, HR: 103, SpO2: 90%","350 Chelsea Mount Apt. 395, Perryhaven, ND 63911",29 mins
+1137,Jamie Travis,32,Male,Traffic Accident,Fractures and bone deformity,Immobilize fractures,"BP: 140/76, HR: 94, SpO2: 96%","2360 Matthew Bridge, West Lorifurt, CO 34477",14 mins
+1138,Jennifer Smith,67,Male,Hypothermia,Slurred speech,Gradual rewarming,"BP: 129/70, HR: 76, SpO2: 91%","13088 Cunningham Route Suite 978, Jessicatown, HI 45569",21 mins
+1139,Zachary Thomas,51,Female,Hypothermia,Shivering,Monitor vitals,"BP: 112/64, HR: 78, SpO2: 92%","943 Gordon Islands Apt. 793, Port Katie, IA 13294",17 mins
+1140,Elizabeth Arnold,53,Male,Heat Stroke,High body temperature (above 104°F or 40°C),Monitor heart rate,"BP: 126/74, HR: 101, SpO2: 90%","60768 Marcia Drives, Port Michelle, UT 72912",11 mins
+1141,Brian Roth,37,Male,Heart Attack,Chest pain or discomfort,Administer aspirin,"BP: 140/93, HR: 74, SpO2: 92%","Unit 8920 Box 9882, DPO AP 75755",11 mins
+1142,Robert Cardenas,55,Male,Brain Hemorrhage,Nausea and vomiting,"Stabilize patient, Transport to neurosurgical unit","BP: 188/111, HR: 91, SpO2: 87%","776 Richmond Groves, Mooreberg, WI 50654",5 mins
+1143,Judith Holmes,76,Female,Brain Hemorrhage,Sudden severe headache,Administer oxygen,"BP: 166/127, HR: 62, SpO2: 88%","PSC 4568, Box 6777, APO AE 84772",22 mins
+1144,Stacy Mccormick,30,Female,Heat Stroke,Rapid heart rate,Monitor heart rate,"BP: 117/70, HR: 129, SpO2: 91%","011 Luis Fields Suite 316, Karihaven, WA 32016",11 mins
+1145,Michelle Haas,26,Female,Severe Asthma Attack,Wheezing and shortness of breath,Administer bronchodilator via nebulizer,"BP: 120/76, HR: 109, SpO2: 77%","Unit 8739 Box 3209, DPO AP 80086",14 mins
+1146,Gary Conner,78,Female,Stroke,Trouble seeing in one or both eyes,Oxygen therapy,"BP: 154/106, HR: 93, SpO2: 94%","75906 Tyler Cape, South Alyssa, NY 95012",13 mins
+1147,Barbara Rivera,77,Male,Trauma,Severe bleeding,Control bleeding,"BP: 100/75, HR: 87, SpO2: 86%","310 Robert Ports Suite 978, Greenbury, PA 81980",12 mins
+1148,Carrie Johnson,81,Male,Anaphylactic Shock,Rapid heart rate,Administer epinephrine,"BP: 86/41, HR: 106, SpO2: 77%","8765 Deanna Causeway Suite 310, Port Lindaberg, ME 27287",25 mins
+1149,Carol Wade,50,Female,Brain Hemorrhage,Loss of consciousness,Control blood pressure,"BP: 195/102, HR: 66, SpO2: 85%","6477 Kelly Walk, Campbellhaven, NM 89945",24 mins
+1150,Kenneth Gomez,57,Female,Severe Asthma Attack,Wheezing and shortness of breath,Oxygen therapy,"BP: 128/88, HR: 121, SpO2: 75%","226 Dillon Parkways Apt. 813, South Jennifer, AK 97052",27 mins
+1151,Barbara Morgan,21,Male,Hypothermia,Shivering,Monitor vitals,"BP: 112/77, HR: 54, SpO2: 95%","161 Campbell Cliff, West Christopherborough, OH 61216",12 mins
+1152,Cheryl Miller,89,Male,Brain Hemorrhage,Loss of consciousness,Administer oxygen,"BP: 170/129, HR: 92, SpO2: 89%","2112 Barajas Parks Apt. 681, West Melissa, CA 82317",22 mins
+1153,Dr. Evelyn Stephens MD,69,Female,Severe Asthma Attack,Inability to speak full sentences,Administer steroids,"BP: 112/70, HR: 112, SpO2: 89%","934 David Stravenue Suite 989, Brownfort, MA 89779",16 mins
+1154,Mrs. Julie Phillips,87,Female,Severe Asthma Attack,Inability to speak full sentences,Administer steroids,"BP: 112/77, HR: 107, SpO2: 77%","995 Russell Plaza Apt. 002, East Jimmy, GA 08399",10 mins
+1155,Regina Olson,24,Male,Stroke,Trouble seeing in one or both eyes,Administer clot-busting medication,"BP: 163/109, HR: 77, SpO2: 93%","01513 Buchanan Rest, Aliport, SD 58697",6 mins
+1156,Alexandra Sanchez,27,Male,Trauma,Intense pain,Control bleeding,"BP: 117/67, HR: 117, SpO2: 90%","54972 Christopher Drives, East Daniellefurt, CT 62821",20 mins
+1157,Angela Walker,74,Male,Trauma,Difficulty breathing,Administer intravenous fluids,"BP: 116/74, HR: 96, SpO2: 90%","31216 Sanchez Lock, Mirandaborough, TX 73984",17 mins
+1158,Megan Noble,59,Male,Trauma,Intense pain,Control bleeding,"BP: 95/72, HR: 139, SpO2: 92%","2750 Decker Mountains, Cameronshire, IL 06284",18 mins
+1159,Jenna Henderson,51,Male,Heat Stroke,Rapid heart rate,Intravenous fluids,"BP: 123/88, HR: 106, SpO2: 91%","603 Alexandra Ridge, Port Jimmyberg, NV 38762",26 mins
+1160,Stephanie Bell,69,Female,Traffic Accident,Severe bleeding,Immobilize fractures,"BP: 119/84, HR: 95, SpO2: 97%","7557 Kimberly Valleys Suite 647, North Royville, DC 37298",5 mins
+1161,Zachary Marks,88,Male,Hypothermia,Slurred speech,Gradual rewarming,"BP: 129/68, HR: 66, SpO2: 94%","9194 Sarah Circles Apt. 395, Evanshaven, AR 21008",27 mins
+1162,Terry Barnes,84,Male,Anaphylactic Shock,Loss of consciousness,Oxygen therapy,"BP: 73/52, HR: 132, SpO2: 87%","85065 Jackson Extensions Apt. 116, South Oliviamouth, SD 18429",13 mins
+1163,Mark Ewing,74,Female,Severe Asthma Attack,Wheezing and shortness of breath,Administer steroids,"BP: 128/85, HR: 103, SpO2: 87%","9271 Daniel Villages Apt. 288, Coryhaven, NC 14387",28 mins
+1164,Joseph Vega,35,Male,Severe Asthma Attack,Wheezing and shortness of breath,Oxygen therapy,"BP: 124/83, HR: 114, SpO2: 76%","62572 Timothy Causeway, Karlabury, MI 01664",30 mins
+1165,Leslie Thompson,38,Female,Hypothermia,Slurred speech,Monitor vitals,"BP: 127/76, HR: 73, SpO2: 92%","241 Evans Ridges Suite 873, Tranburgh, TX 82554",7 mins
+1166,Tracy Sullivan,88,Female,Hypothermia,Slurred speech,Administer warm IV fluids,"BP: 119/62, HR: 80, SpO2: 90%","05074 Kim Estates, North Douglas, OK 24174",27 mins
+1167,Kim Flores,65,Female,Traffic Accident,"Chest pain, difficulty breathing",Immobilize fractures,"BP: 110/77, HR: 115, SpO2: 92%","033 Jones Key Suite 553, South Nicholasfurt, TX 41974",14 mins
+1168,Carlos Johns,24,Female,Septic Shock,Confusion and disorientation,Administer IV antibiotics,"BP: 79/44, HR: 92, SpO2: 83%","7247 Diana Falls Apt. 848, Kennethfurt, IA 88531",14 mins
+1169,James Benson,87,Female,Trauma,Intense pain,Stabilize patient,"BP: 97/79, HR: 102, SpO2: 93%","3027 Steven Station Apt. 554, New Andreatown, MD 74113",9 mins
+1170,Nicholas Guerrero,34,Male,Septic Shock,Low blood pressure,Intravenous fluids,"BP: 79/45, HR: 90, SpO2: 80%","078 Margaret Overpass Suite 853, Port Julie, NJ 36262",8 mins
+1171,Pamela Martinez,47,Male,Severe Asthma Attack,Wheezing and shortness of breath,Administer bronchodilator via nebulizer,"BP: 129/73, HR: 100, SpO2: 87%","13728 Greene Motorway Apt. 487, North Teresafurt, MD 41373",14 mins
+1172,Michelle Gates,73,Male,Anaphylactic Shock,Rapid heart rate,Administer epinephrine,"BP: 70/52, HR: 125, SpO2: 76%","546 Laura Lodge, New James, PA 14679",20 mins
+1173,Jason Jordan,85,Female,Anaphylactic Shock,Difficulty breathing,Administer epinephrine,"BP: 78/51, HR: 93, SpO2: 77%","4586 Mitchell Motorway Apt. 734, Lesterhaven, LA 50103",15 mins
+1174,Karen Pratt,68,Male,Septic Shock,Low blood pressure,Intravenous fluids,"BP: 79/40, HR: 113, SpO2: 90%","2073 Carla Mill, Emilybury, WY 55031",22 mins
+1175,Briana Kim,61,Male,Anaphylactic Shock,Hives or rash,Administer epinephrine,"BP: 79/52, HR: 109, SpO2: 78%","00011 Maureen Route Suite 903, East Alex, KY 59317",28 mins
+1176,Stephanie Pratt,33,Female,Heat Stroke,Nausea and vomiting,"Cooling measures (ice packs, cool water)","BP: 122/97, HR: 92, SpO2: 99%","69269 Jones Radial Apt. 777, West Darrellside, NV 78174",20 mins
+1177,Ryan Perez,64,Female,Anaphylactic Shock,Difficulty breathing,Oxygen therapy,"BP: 72/55, HR: 129, SpO2: 89%","8684 Reese Neck, South Mackenzieberg, CT 60750",10 mins
+1178,Melissa Scott,21,Female,Hypothermia,Confusion,Administer warm IV fluids,"BP: 130/70, HR: 55, SpO2: 94%","541 Jaclyn Shores, Port Jennifertown, MT 54093",10 mins
+1179,Jason Vasquez,43,Male,Heart Attack,Chest pain or discomfort,Oxygen therapy,"BP: 154/83, HR: 80, SpO2: 97%","761 John Cape Apt. 503, Ramosburgh, HI 42249",5 mins
+1180,Brooke Gross,72,Female,Heat Stroke,Nausea and vomiting,Monitor heart rate,"BP: 129/94, HR: 93, SpO2: 90%","68089 Victor Estates Apt. 553, Port Ericamouth, LA 47980",30 mins
+1181,Andre Smith,18,Male,Stroke,"Sudden numbness or weakness in the face, arm, or leg",Monitor blood pressure,"BP: 152/112, HR: 70, SpO2: 93%","17394 Harris Springs, Tomstad, OR 71716",28 mins
+1182,Susan Dominguez,56,Female,Heat Stroke,High body temperature (above 104°F or 40°C),"Cooling measures (ice packs, cool water)","BP: 141/90, HR: 114, SpO2: 90%","01193 Joshua Inlet Suite 938, Brandonburgh, MD 71126",22 mins
+1183,Kyle Beltran,79,Male,Anaphylactic Shock,Swelling of face and throat,Monitor airway and breathing,"BP: 73/51, HR: 107, SpO2: 76%","853 Carrillo Ports Apt. 819, Martinezport, WA 33473",15 mins
+1184,Sara Meyer,33,Female,Severe Asthma Attack,Chest tightness,Administer bronchodilator via nebulizer,"BP: 120/77, HR: 124, SpO2: 72%","Unit 1298 Box 2481, DPO AE 42632",6 mins
+1185,Kelly Snyder,30,Male,Heat Stroke,Rapid heart rate,Monitor heart rate,"BP: 120/91, HR: 99, SpO2: 97%","441 Luis Ranch, Alexanderchester, AL 79893",11 mins
+1186,Troy Buchanan DVM,75,Female,Brain Hemorrhage,Sudden severe headache,Control blood pressure,"BP: 193/112, HR: 83, SpO2: 91%","26697 Turner Bridge Apt. 293, Markmouth, IA 98336",15 mins
+1187,Amy Giles,44,Female,Stroke,Severe headache with no known cause,Administer clot-busting medication,"BP: 150/120, HR: 96, SpO2: 90%","291 Vargas Drives, East Alicia, AL 32814",21 mins
+1188,Brittany Owens,27,Female,Severe Asthma Attack,Bluish lips or face,Administer steroids,"BP: 135/79, HR: 119, SpO2: 76%","683 Roberts Ports Apt. 585, Kellyview, NE 03962",18 mins
+1189,Caroline Gonzales DVM,19,Male,Brain Hemorrhage,Nausea and vomiting,"Stabilize patient, Transport to neurosurgical unit","BP: 182/119, HR: 87, SpO2: 92%","Unit 4754 Box 6718, DPO AP 66485",9 mins
+1190,Leah Coleman,89,Female,Septic Shock,Low blood pressure,Monitor blood pressure,"BP: 83/60, HR: 96, SpO2: 83%","824 Amy Haven Suite 306, Brittanyside, NE 35434",19 mins
+1191,Richard Gray,72,Male,Heat Stroke,"Hot, dry skin","Cooling measures (ice packs, cool water)","BP: 115/98, HR: 127, SpO2: 97%","444 Pittman Avenue, Lake Brianfort, WI 46523",23 mins
+1192,Yolanda Miller,60,Male,Hypothermia,Slurred speech,Monitor vitals,"BP: 111/77, HR: 61, SpO2: 88%","USS Perez, FPO AP 40571",25 mins
+1193,Kevin Brown,23,Female,Stroke,"Confusion, trouble speaking or understanding speech",Oxygen therapy,"BP: 156/107, HR: 77, SpO2: 94%","9350 Alvarado Rapid Suite 204, Stephensonstad, OR 17510",28 mins
+1194,Joshua Mitchell,63,Female,Septic Shock,Low blood pressure,Intravenous fluids,"BP: 75/50, HR: 108, SpO2: 86%","8973 Bryan Radial, Brittanytown, PA 68656",30 mins
+1195,Timothy Case,42,Female,Severe Asthma Attack,Inability to speak full sentences,Administer steroids,"BP: 110/88, HR: 112, SpO2: 75%","26466 Andrew Squares, West Dwaynemouth, ME 99033",10 mins
+1196,Jessica Klein,75,Male,Heat Stroke,Nausea and vomiting,"Cooling measures (ice packs, cool water)","BP: 142/83, HR: 127, SpO2: 100%","528 Krause Ferry Apt. 067, South Brooke, MT 06226",12 mins
+1197,Tina Richard,53,Male,Brain Hemorrhage,Nausea and vomiting,Control blood pressure,"BP: 153/108, HR: 77, SpO2: 89%","59979 Davidson Dam Suite 886, West Jonathan, IL 08955",5 mins
+1198,John Gill,31,Female,Heart Attack,Chest pain or discomfort,Administer aspirin,"BP: 152/81, HR: 112, SpO2: 96%","40681 Sierra Island, Matthewborough, MO 06881",17 mins
+1199,Heidi Levy,45,Female,Trauma,Severe bleeding,Stabilize patient,"BP: 104/73, HR: 120, SpO2: 90%","79967 Gonzalez Parks, New Melissamouth, MS 09486",5 mins
+1200,Sarah Mitchell,59,Female,Hypothermia,Confusion,Gradual rewarming,"BP: 106/80, HR: 67, SpO2: 95%","68647 Yolanda Union, Kramerfort, MD 59631",21 mins
+1201,Brian Sanders,42,Male,Traffic Accident,Severe bleeding,Immobilize fractures,"BP: 137/82, HR: 85, SpO2: 98%","876 Glass Bypass Suite 737, Kevinfurt, AR 20674",5 mins
+1202,Derek Chapman,83,Male,Anaphylactic Shock,Swelling of face and throat,Monitor airway and breathing,"BP: 70/58, HR: 92, SpO2: 89%","91674 Michelle Fall Suite 407, Port Kimberly, UT 26640",25 mins
+1203,Toni Lynch,49,Male,Trauma,Intense pain,Stabilize patient,"BP: 92/74, HR: 117, SpO2: 91%","0066 Simmons Place, Stephaniefurt, PA 13808",6 mins
+1204,Jason Brooks,42,Female,Heat Stroke,"Hot, dry skin",Intravenous fluids,"BP: 135/77, HR: 130, SpO2: 91%","PSC 7122, Box 9509, APO AA 04960",11 mins
+1205,Jonathan Steele,59,Female,Brain Hemorrhage,Weakness or numbness in limbs,"Stabilize patient, Transport to neurosurgical unit","BP: 150/127, HR: 76, SpO2: 87%","24283 Aaron Lodge Apt. 191, North Michael, NV 32727",13 mins
+1206,Emily Chen,69,Male,Stroke,Severe headache with no known cause,Administer clot-busting medication,"BP: 178/106, HR: 81, SpO2: 95%","17214 Julie Course Apt. 449, Port Dennis, DE 49534",16 mins
+1207,Angela Mendoza,90,Male,Brain Hemorrhage,Sudden severe headache,Administer oxygen,"BP: 188/106, HR: 73, SpO2: 90%","5976 Laura Club, Andersonbury, SD 27949",30 mins
+1208,Brittany White,45,Female,Heat Stroke,High body temperature (above 104°F or 40°C),"Cooling measures (ice packs, cool water)","BP: 111/99, HR: 106, SpO2: 96%","84498 Burke Stream, Lake Heather, OR 07031",5 mins
+1209,John Rangel,36,Male,Septic Shock,High fever,Monitor blood pressure,"BP: 81/58, HR: 93, SpO2: 88%","419 Joseph Falls Suite 126, Leeborough, NY 84798",27 mins
+1210,Melanie Hernandez,76,Male,Heat Stroke,"Hot, dry skin",Monitor heart rate,"BP: 126/94, HR: 124, SpO2: 97%","26267 Aaron Courts Apt. 292, Clarkmouth, VT 71367",15 mins
+1211,Michael Shepherd,43,Female,Brain Hemorrhage,Nausea and vomiting,"Stabilize patient, Transport to neurosurgical unit","BP: 195/100, HR: 96, SpO2: 85%","288 Williams Freeway, North Danielleton, AR 04967",21 mins
+1212,Desiree Hicks,61,Male,Traffic Accident,Severe bleeding,Apply pressure to bleeding wounds,"BP: 140/82, HR: 88, SpO2: 98%","49147 John Branch, East Kyletown, ID 19028",28 mins
+1213,Sarah Jones,42,Female,Heart Attack,Chest pain or discomfort,Oxygen therapy,"BP: 147/90, HR: 66, SpO2: 94%","5880 Cuevas Ports Apt. 458, Kimberlyburgh, OR 01417",21 mins
+1214,Jasmine Hunt,22,Male,Traffic Accident,Severe bleeding,Apply pressure to bleeding wounds,"BP: 115/73, HR: 116, SpO2: 92%","3549 Lopez Port, South Michael, KY 94247",14 mins
+1215,Sandra Boyle,67,Female,Septic Shock,Low blood pressure,Intravenous fluids,"BP: 71/57, HR: 94, SpO2: 87%","52196 Christian Row Suite 004, Port Samantha, TX 92260",18 mins
+1216,Kathleen Mullen,62,Female,Brain Hemorrhage,Weakness or numbness in limbs,Administer oxygen,"BP: 154/116, HR: 87, SpO2: 88%","498 David Plains Apt. 423, New Leslieville, AK 70031",14 mins
+1217,Sherry Williamson,21,Female,Anaphylactic Shock,Rapid heart rate,Oxygen therapy,"BP: 89/59, HR: 127, SpO2: 87%","PSC 1134, Box 4628, APO AA 88502",9 mins
+1218,Robert English,69,Female,Anaphylactic Shock,Difficulty breathing,Oxygen therapy,"BP: 89/46, HR: 124, SpO2: 89%","902 Amber View Suite 128, Raymondfort, MT 13799",7 mins
+1219,Jeffery Savage,18,Male,Stroke,"Sudden numbness or weakness in the face, arm, or leg",Administer clot-busting medication,"BP: 143/96, HR: 97, SpO2: 92%","2753 Adams Bridge, Port Jamie, MN 99329",10 mins
+1220,Angela Lewis,41,Male,Stroke,"Sudden numbness or weakness in the face, arm, or leg",Administer clot-busting medication,"BP: 142/101, HR: 90, SpO2: 94%","49507 Morton Crossroad Apt. 507, Campbellchester, ME 35421",18 mins
+1221,Stuart Robertson,62,Female,Brain Hemorrhage,Weakness or numbness in limbs,Administer oxygen,"BP: 196/117, HR: 70, SpO2: 89%","7970 Reynolds Circle, West Michael, DE 25826",12 mins
+1222,Cody Arnold,46,Male,Hypothermia,Shivering,Monitor vitals,"BP: 100/73, HR: 65, SpO2: 86%","20182 Randall Rest, Allentown, DC 46927",25 mins
+1223,Michelle Lopez,81,Male,Septic Shock,Chills,Monitor blood pressure,"BP: 79/49, HR: 114, SpO2: 89%","42518 Thomas Avenue, Erinfurt, MA 21025",19 mins
+1224,Alyssa Hodges,77,Female,Hypothermia,Weak pulse,Monitor vitals,"BP: 124/70, HR: 73, SpO2: 90%","7116 Jonathan Plain Suite 226, Davidshire, KY 89636",23 mins
+1225,James Davis,88,Female,Trauma,"Shock symptoms (pale, cold skin)",Administer intravenous fluids,"BP: 100/60, HR: 125, SpO2: 92%","162 Gutierrez Club, North Gregorytown, WY 94009",12 mins
+1226,Sandra Morris,75,Female,Anaphylactic Shock,Loss of consciousness,Oxygen therapy,"BP: 76/48, HR: 90, SpO2: 90%","797 Kenneth Falls Apt. 285, Huangborough, GA 42148",25 mins
+1227,James Ramos,25,Male,Heart Attack,Shortness of breath,Oxygen therapy,"BP: 130/83, HR: 64, SpO2: 92%","777 Martin Walk Suite 264, New Carrie, TX 91487",9 mins
+1228,Erica Dickerson,42,Male,Heart Attack,Sweating,Monitor heart rate and ECG,"BP: 137/85, HR: 84, SpO2: 97%","2534 Mcclain Mission, East Shelbyland, IL 65134",6 mins
+1229,Pamela Moss,77,Male,Severe Asthma Attack,Bluish lips or face,Oxygen therapy,"BP: 116/75, HR: 109, SpO2: 77%","01767 Frazier Lodge, Jillborough, OH 51991",19 mins
+1230,Lance Brown,76,Female,Anaphylactic Shock,Rapid heart rate,Oxygen therapy,"BP: 74/49, HR: 121, SpO2: 86%","USNV Nguyen, FPO AP 60333",30 mins
+1231,Jared Davis,28,Male,Septic Shock,Low blood pressure,Administer IV antibiotics,"BP: 81/59, HR: 134, SpO2: 82%","505 Hughes Port Suite 300, Johnsonland, WY 25460",9 mins
+1232,Amber Craig,23,Male,Heart Attack,Shortness of breath,Monitor heart rate and ECG,"BP: 149/82, HR: 102, SpO2: 93%","527 Daniel Causeway, West Rebeccashire, SD 61455",11 mins
+1233,Jeffrey Lewis,25,Male,Hypothermia,Weak pulse,Monitor vitals,"BP: 122/65, HR: 61, SpO2: 92%","9602 Henderson Stream, Riverashire, WV 56892",14 mins
+1234,Michael Haas,29,Male,Trauma,"Shock symptoms (pale, cold skin)",Stabilize patient,"BP: 119/69, HR: 131, SpO2: 87%","6145 Potts Via Suite 321, West Angelaport, PA 12183",18 mins
+1235,Brittany Ramos,86,Female,Septic Shock,Low blood pressure,Intravenous fluids,"BP: 86/47, HR: 121, SpO2: 86%","102 Owen Pine, Burkemouth, IA 49228",16 mins
+1236,Stephanie Johnson,51,Male,Anaphylactic Shock,Rapid heart rate,Monitor airway and breathing,"BP: 70/54, HR: 135, SpO2: 75%","6300 Hall Track Suite 078, South Albertport, SC 21159",7 mins
+1237,Bryan Moody,72,Male,Septic Shock,Rapid heart rate,Intravenous fluids,"BP: 83/60, HR: 94, SpO2: 90%","43133 Sharp Ford, Melindatown, GA 07420",25 mins
+1238,Sharon Rose,47,Male,Heart Attack,Chest pain or discomfort,Monitor heart rate and ECG,"BP: 152/99, HR: 100, SpO2: 91%","PSC 8348, Box 1603, APO AP 77016",7 mins
+1239,John Jackson,21,Male,Septic Shock,Low blood pressure,Administer IV antibiotics,"BP: 80/60, HR: 111, SpO2: 89%","96012 Lawrence Radial Suite 047, Port Brianbury, IN 61820",6 mins
+1240,Kristopher Steele,72,Female,Heart Attack,Sweating,Monitor heart rate and ECG,"BP: 134/109, HR: 76, SpO2: 93%","065 Sherri Ranch Suite 513, Rileyview, AZ 99091",26 mins
+1241,Brooke Pena,43,Female,Heart Attack,Sweating,Monitor heart rate and ECG,"BP: 124/104, HR: 59, SpO2: 94%","PSC 0020, Box 7417, APO AE 45254",5 mins
+1242,William Keller,69,Female,Trauma,Intense pain,Administer intravenous fluids,"BP: 92/60, HR: 116, SpO2: 87%","3285 Morrison Roads, Jaredborough, IN 33138",14 mins
+1243,Jack Tran,81,Female,Hypothermia,Confusion,Administer warm IV fluids,"BP: 104/62, HR: 51, SpO2: 89%","897 Castro Bridge, Port Gailfort, OK 70649",19 mins
+1244,Mary Thomas,52,Female,Heat Stroke,High body temperature (above 104°F or 40°C),Monitor heart rate,"BP: 110/94, HR: 108, SpO2: 90%","683 Terry Cape Suite 720, Mcleanshire, WV 67327",14 mins
+1245,Randy Odom,34,Female,Traffic Accident,Severe bleeding,Apply pressure to bleeding wounds,"BP: 126/74, HR: 79, SpO2: 90%","00684 Tracy Forges Apt. 062, Martinezberg, MN 01443",16 mins
+1246,Joshua Jackson,44,Female,Severe Asthma Attack,Inability to speak full sentences,Administer steroids,"BP: 131/84, HR: 102, SpO2: 80%","98947 James Forks, Beckyland, AK 11053",13 mins
+1247,Ronald Hernandez,47,Female,Severe Asthma Attack,Bluish lips or face,Oxygen therapy,"BP: 126/76, HR: 130, SpO2: 84%","Unit 0203 Box 0022, DPO AA 39344",14 mins
+1248,Lynn Williams,46,Female,Hypothermia,Weak pulse,Monitor vitals,"BP: 100/72, HR: 66, SpO2: 89%","6650 Susan Roads, East Aimee, DE 40045",9 mins
+1249,Tami Dawson,32,Male,Heat Stroke,"Hot, dry skin","Cooling measures (ice packs, cool water)","BP: 116/85, HR: 127, SpO2: 98%","552 Ashley Locks, West Kimberlyshire, MD 39647",10 mins
+1250,Ann Rice,27,Male,Anaphylactic Shock,Swelling of face and throat,Monitor airway and breathing,"BP: 83/60, HR: 133, SpO2: 85%","49058 Arnold Cove Suite 929, South Taraberg, AR 62722",30 mins
+1251,Kelli Fitzgerald,62,Female,Hypothermia,Confusion,Gradual rewarming,"BP: 115/61, HR: 64, SpO2: 94%","67850 Lewis Forges, Port Keithchester, MA 17061",17 mins
+1252,Joel Wood,60,Male,Severe Asthma Attack,Bluish lips or face,Administer steroids,"BP: 111/88, HR: 114, SpO2: 72%","7693 Little Loop Suite 274, Khanview, OH 21904",30 mins
+1253,Erika Miller,61,Male,Brain Hemorrhage,Nausea and vomiting,Administer oxygen,"BP: 167/120, HR: 74, SpO2: 90%","USNS Adams, FPO AA 91295",6 mins
+1254,Terry Kent,23,Female,Traffic Accident,"Chest pain, difficulty breathing",Administer pain relief,"BP: 138/71, HR: 91, SpO2: 98%","1351 Steven Locks Apt. 844, Jackberg, GA 85952",7 mins
+1255,Daniel Le,73,Male,Stroke,Severe headache with no known cause,Administer clot-busting medication,"BP: 143/117, HR: 63, SpO2: 95%","06964 Moran Turnpike, Port William, NY 04949",29 mins
+1256,Adam Harris,27,Male,Brain Hemorrhage,Nausea and vomiting,Control blood pressure,"BP: 178/102, HR: 75, SpO2: 85%","482 Cole Mountains Suite 846, West Brendanstad, WY 20790",7 mins
+1257,Darren Ortega,44,Female,Heat Stroke,Nausea and vomiting,Intravenous fluids,"BP: 117/95, HR: 129, SpO2: 94%","0090 Graham Mews Suite 280, Port Elizabethton, PA 01204",12 mins
+1258,Travis Strong,48,Female,Stroke,"Confusion, trouble speaking or understanding speech",Administer clot-busting medication,"BP: 141/119, HR: 77, SpO2: 95%","29404 Perez Valley, West Joshua, MS 04309",23 mins
+1259,Darrell Mueller,43,Female,Heart Attack,Chest pain or discomfort,Monitor heart rate and ECG,"BP: 149/98, HR: 109, SpO2: 95%","39816 Reyes Parks Apt. 555, South Lawrencefurt, CO 14989",6 mins
+1260,Elijah Green,43,Male,Stroke,"Confusion, trouble speaking or understanding speech",Administer clot-busting medication,"BP: 175/104, HR: 96, SpO2: 90%","847 Lori Harbors, Jessicashire, RI 47191",25 mins
+1261,Robert Wolf,80,Female,Heat Stroke,"Hot, dry skin",Monitor heart rate,"BP: 136/91, HR: 106, SpO2: 90%","13415 William Place, Jeffreyburgh, UT 69405",26 mins
+1262,Stacy Davis,21,Female,Hypothermia,Weak pulse,Administer warm IV fluids,"BP: 111/64, HR: 67, SpO2: 95%","558 Stewart Ranch Apt. 469, South Christinebury, VT 45964",7 mins
+1263,Nicole Byrd,50,Female,Severe Asthma Attack,Wheezing and shortness of breath,Oxygen therapy,"BP: 138/79, HR: 100, SpO2: 77%","84549 Shannon Skyway Apt. 694, Nicholasshire, TN 18417",23 mins
+1264,Thomas Mcdonald,25,Male,Heart Attack,Nausea or lightheadedness,Monitor heart rate and ECG,"BP: 152/82, HR: 105, SpO2: 98%","1674 David Crest, Mariachester, AL 21397",29 mins
+1265,David Johnson,90,Female,Anaphylactic Shock,Loss of consciousness,Monitor airway and breathing,"BP: 82/55, HR: 94, SpO2: 90%","401 Guerrero Lodge, North Rogerville, FL 90000",15 mins
+1266,Sandra Green,25,Female,Trauma,"Shock symptoms (pale, cold skin)",Administer intravenous fluids,"BP: 113/77, HR: 138, SpO2: 91%","9267 Jennifer Lake Suite 661, Jamesland, NE 58574",10 mins
+1267,Nancy Collins,19,Female,Septic Shock,Low blood pressure,Monitor blood pressure,"BP: 71/58, HR: 136, SpO2: 82%","6332 Saunders Ville, Allenview, IN 14281",23 mins
+1268,Brandon Cooper,58,Female,Trauma,Difficulty breathing,Control bleeding,"BP: 93/69, HR: 121, SpO2: 94%","0985 Patrick Gateway Apt. 658, Port Stacieborough, CT 88280",30 mins
+1269,Heather Ortiz,59,Female,Anaphylactic Shock,Difficulty breathing,Monitor airway and breathing,"BP: 82/57, HR: 126, SpO2: 82%","563 Tiffany Cove, North Catherine, DE 89992",25 mins
+1270,Lindsey Parker,48,Female,Severe Asthma Attack,Bluish lips or face,Administer bronchodilator via nebulizer,"BP: 139/78, HR: 110, SpO2: 88%","63534 Henderson Parkways, New Paul, PA 52192",13 mins
+1271,Janet Perez,46,Male,Anaphylactic Shock,Hives or rash,Monitor airway and breathing,"BP: 79/49, HR: 137, SpO2: 87%","806 Jackson Ridges, Snydermouth, VT 54859",29 mins
+1272,Michelle Reilly,37,Male,Brain Hemorrhage,Nausea and vomiting,"Stabilize patient, Transport to neurosurgical unit","BP: 190/105, HR: 97, SpO2: 92%","048 Johnson Fort, Rodriguezville, LA 81839",17 mins
+1273,Juan Williams,44,Male,Traffic Accident,Fractures and bone deformity,Immobilize fractures,"BP: 121/86, HR: 83, SpO2: 98%","462 Joseph Green, Lake Keith, KS 97774",9 mins
+1274,Marcus Fields,71,Female,Heat Stroke,Nausea and vomiting,"Cooling measures (ice packs, cool water)","BP: 140/92, HR: 109, SpO2: 90%","48807 Megan Trail, New Andrea, RI 53346",9 mins
+1275,Courtney David,37,Female,Hypothermia,Shivering,Gradual rewarming,"BP: 128/78, HR: 76, SpO2: 90%","6070 Ellison Glen Apt. 281, Clarkshire, IA 01642",15 mins
+1276,Justin Gallagher,72,Female,Anaphylactic Shock,Rapid heart rate,Monitor airway and breathing,"BP: 76/49, HR: 130, SpO2: 79%","4101 Jackson Alley, West Stephenbury, OH 86501",17 mins
+1277,Oscar Bruce,44,Female,Anaphylactic Shock,Swelling of face and throat,Monitor airway and breathing,"BP: 78/58, HR: 130, SpO2: 81%","4464 Joel Tunnel, New Toddfurt, IA 37319",18 mins
+1278,Anthony Hughes,35,Male,Stroke,"Sudden numbness or weakness in the face, arm, or leg",Administer clot-busting medication,"BP: 175/90, HR: 71, SpO2: 93%","228 Frank Skyway Suite 951, East Brian, AZ 96268",26 mins
+1279,Victoria Moran,33,Male,Anaphylactic Shock,Difficulty breathing,Oxygen therapy,"BP: 78/54, HR: 133, SpO2: 86%","USNV Mclean, FPO AP 09484",22 mins
+1280,Wendy Jacobs,67,Female,Hypothermia,Slurred speech,Administer warm IV fluids,"BP: 122/73, HR: 72, SpO2: 91%","49370 Valenzuela Hills Apt. 645, Ericstad, MI 04625",6 mins
+1281,Dr. Jeremy Mcintyre III,31,Female,Severe Asthma Attack,Chest tightness,Oxygen therapy,"BP: 129/81, HR: 107, SpO2: 73%","2385 Stokes Square, South Alicia, RI 94016",13 mins
+1282,Christopher Murray,71,Male,Heart Attack,Shortness of breath,Administer aspirin,"BP: 123/95, HR: 109, SpO2: 96%","5688 Morgan Unions, South Johnville, FL 77292",5 mins
+1283,Ronnie Haas,52,Female,Trauma,Intense pain,Administer intravenous fluids,"BP: 112/73, HR: 133, SpO2: 85%","332 Donna Burgs Apt. 305, Hartfurt, NC 68677",27 mins
+1284,Jimmy Lopez,87,Male,Hypothermia,Loss of coordination,Administer warm IV fluids,"BP: 122/69, HR: 50, SpO2: 85%","914 Jesse Summit, West Erica, IA 92723",19 mins
+1285,Tammy Guzman,54,Female,Heart Attack,Chest pain or discomfort,Administer aspirin,"BP: 122/87, HR: 78, SpO2: 96%","823 Theresa Junction Suite 388, Stevenport, RI 01921",11 mins
+1286,Jason Watts,65,Male,Traffic Accident,Fractures and bone deformity,Immobilize fractures,"BP: 123/82, HR: 109, SpO2: 98%","2993 Allison Estate, Brettton, IA 41921",28 mins
+1287,Marissa Allen,89,Female,Traffic Accident,Fractures and bone deformity,Administer pain relief,"BP: 110/88, HR: 117, SpO2: 97%","17522 Breanna Garden Suite 348, North Garyburgh, NM 13375",23 mins
+1288,Gina Thompson,61,Male,Brain Hemorrhage,Sudden severe headache,Control blood pressure,"BP: 165/128, HR: 85, SpO2: 92%","USCGC Gamble, FPO AA 66291",28 mins
+1289,Sonia Massey,39,Male,Septic Shock,Confusion and disorientation,Intravenous fluids,"BP: 80/40, HR: 116, SpO2: 85%","4589 Webster Courts Suite 396, New Stacybury, MT 03318",6 mins
+1290,David Bruce,31,Male,Brain Hemorrhage,Sudden severe headache,Administer oxygen,"BP: 185/112, HR: 72, SpO2: 90%","6575 Cristina Pines Suite 065, Garrettmouth, LA 10120",16 mins
+1291,Kimberly Doyle,40,Female,Severe Asthma Attack,Wheezing and shortness of breath,Administer steroids,"BP: 114/79, HR: 130, SpO2: 79%","118 Ramsey Fork, Solisside, AZ 69490",23 mins
+1292,John Thomas,52,Male,Trauma,Intense pain,Stabilize patient,"BP: 111/70, HR: 132, SpO2: 90%","66400 Adam Ports Apt. 984, Reneeburgh, DE 61443",10 mins
+1293,Jacob Pittman,32,Male,Heat Stroke,Nausea and vomiting,Monitor heart rate,"BP: 113/76, HR: 101, SpO2: 99%","791 Ortiz Mountain Apt. 452, Christineside, WI 86080",20 mins
+1294,John Strickland,45,Female,Heat Stroke,"Hot, dry skin","Cooling measures (ice packs, cool water)","BP: 147/82, HR: 125, SpO2: 97%","14728 Morris Fords, East Taylormouth, AK 74681",23 mins
+1295,Jenny Paul,18,Female,Traffic Accident,Loss of consciousness,Immobilize fractures,"BP: 130/88, HR: 70, SpO2: 91%","958 Michael Turnpike Apt. 434, North Shirleyburgh, TX 47476",22 mins
+1296,Leslie Hood,37,Male,Brain Hemorrhage,Loss of consciousness,"Stabilize patient, Transport to neurosurgical unit","BP: 172/109, HR: 64, SpO2: 90%","76673 Obrien Ramp Suite 436, Mooreberg, IA 97123",7 mins
+1297,Tamara Floyd,35,Male,Severe Asthma Attack,Chest tightness,Administer steroids,"BP: 116/73, HR: 130, SpO2: 81%","0227 Jacob Terrace, Peggyhaven, MS 84573",7 mins
+1298,Dennis Fernandez,20,Female,Brain Hemorrhage,Nausea and vomiting,Control blood pressure,"BP: 172/126, HR: 87, SpO2: 85%","7257 Williams Ferry, Lake Molly, MT 16696",30 mins
+1299,Dustin Drake,59,Female,Hypothermia,Confusion,Administer warm IV fluids,"BP: 121/76, HR: 79, SpO2: 94%","07600 Joel Divide, North Josephstad, NH 53150",23 mins
+1300,Kristen Holder,39,Male,Trauma,"Shock symptoms (pale, cold skin)",Control bleeding,"BP: 97/75, HR: 123, SpO2: 88%","71981 Ryan Fork, Kaylamouth, FL 67891",17 mins
+1301,Jessica Mcmillan,69,Male,Anaphylactic Shock,Difficulty breathing,Administer epinephrine,"BP: 87/42, HR: 139, SpO2: 80%","2896 Martin Greens, Williamhaven, RI 49571",21 mins
+1302,Brian Hubbard,75,Female,Stroke,Trouble seeing in one or both eyes,Oxygen therapy,"BP: 145/92, HR: 79, SpO2: 90%","788 Hopkins Shores Suite 495, Lawsonhaven, DE 54027",29 mins
+1303,Leslie Ramos,65,Female,Brain Hemorrhage,Loss of consciousness,Administer oxygen,"BP: 194/110, HR: 89, SpO2: 91%","572 Cooper Stream Suite 248, Martinezmouth, IA 51965",15 mins
+1304,Matthew Mendoza,59,Male,Trauma,Severe bleeding,Control bleeding,"BP: 114/76, HR: 102, SpO2: 86%","601 Gregory Pines Apt. 194, North Danielle, PA 59905",6 mins
+1305,Julia Bailey,82,Male,Heart Attack,Sweating,Oxygen therapy,"BP: 122/109, HR: 87, SpO2: 92%","Unit 7969 Box 5637, DPO AE 35739",9 mins
+1306,Monica Huerta,22,Female,Septic Shock,Rapid heart rate,Administer IV antibiotics,"BP: 75/53, HR: 103, SpO2: 90%","230 Juan Plain, North Jennifer, KS 56825",16 mins
+1307,Aaron Keith,81,Male,Septic Shock,Chills,Administer IV antibiotics,"BP: 86/51, HR: 118, SpO2: 81%","09835 Juan Walks Apt. 702, East Amyburgh, NJ 64869",24 mins
+1308,Cody Haynes,56,Male,Septic Shock,Chills,Intravenous fluids,"BP: 74/40, HR: 115, SpO2: 80%","00909 Wade Shoals Apt. 883, Skinnerside, AZ 53715",23 mins
+1309,Adam Aguilar,84,Male,Anaphylactic Shock,Loss of consciousness,Monitor airway and breathing,"BP: 75/54, HR: 131, SpO2: 83%","Unit 8645 Box 5713, DPO AA 43104",11 mins
+1310,Suzanne Daniel,82,Male,Heart Attack,Nausea or lightheadedness,Administer aspirin,"BP: 139/96, HR: 96, SpO2: 93%","39043 Williams Estates, Port Taylorfurt, DC 06615",18 mins
+1311,Calvin Campbell,43,Female,Heart Attack,Sweating,Oxygen therapy,"BP: 152/99, HR: 80, SpO2: 91%","Unit 0822 Box 5155, DPO AP 96679",13 mins
+1312,Holly Reynolds,50,Male,Stroke,Trouble seeing in one or both eyes,Oxygen therapy,"BP: 141/97, HR: 82, SpO2: 95%","898 Macias Pike, Sarahbury, NE 04717",20 mins
+1313,Mary Robles,30,Female,Septic Shock,High fever,Intravenous fluids,"BP: 81/59, HR: 96, SpO2: 82%","9757 Kyle Groves, South Christopher, AZ 67466",17 mins
+1314,David Brown,61,Female,Brain Hemorrhage,Weakness or numbness in limbs,Administer oxygen,"BP: 200/126, HR: 97, SpO2: 90%","1600 Cunningham Stravenue, Lake Kevinborough, IL 74726",11 mins
+1315,Dawn Patterson,39,Male,Trauma,Severe bleeding,Administer intravenous fluids,"BP: 91/77, HR: 107, SpO2: 89%","466 Michael Mountain, West Kevin, ME 40920",22 mins
+1316,Heather Weaver,35,Male,Hypothermia,Confusion,Administer warm IV fluids,"BP: 128/78, HR: 72, SpO2: 94%","72016 Rogers Causeway, Hansonside, LA 62915",12 mins
+1317,Natalie Yang,20,Male,Severe Asthma Attack,Inability to speak full sentences,Oxygen therapy,"BP: 120/82, HR: 118, SpO2: 71%","82884 Bartlett Lodge Apt. 216, Port Joshua, OK 52871",25 mins
+1318,Robert Rodriguez,34,Female,Trauma,Severe bleeding,Control bleeding,"BP: 118/71, HR: 80, SpO2: 85%","1842 Misty Parkways, Smithborough, WI 48467",24 mins
+1319,Samuel Smith,69,Female,Septic Shock,High fever,Monitor blood pressure,"BP: 77/41, HR: 103, SpO2: 84%","75979 Pollard Mountain Suite 665, Boylestad, AK 14887",22 mins
+1320,Melissa Poole,22,Female,Septic Shock,Chills,Intravenous fluids,"BP: 70/48, HR: 140, SpO2: 88%","8809 Salas Estates Suite 707, Ronniechester, TX 14406",19 mins
+1321,Lisa Wagner,36,Female,Severe Asthma Attack,Wheezing and shortness of breath,Oxygen therapy,"BP: 120/81, HR: 116, SpO2: 79%","245 Anderson Manor Suite 598, Allenport, MA 96939",14 mins
+1322,Brianna Nguyen,58,Female,Trauma,Severe bleeding,Control bleeding,"BP: 104/73, HR: 105, SpO2: 92%","340 Wright Camp Suite 313, East Jamieside, NE 91391",15 mins
+1323,Daryl Lutz,19,Female,Septic Shock,Chills,Administer IV antibiotics,"BP: 72/55, HR: 119, SpO2: 89%","669 Teresa Row Suite 591, Mcbridefort, NM 54307",10 mins
+1324,Barbara Thomas,74,Male,Severe Asthma Attack,Chest tightness,Administer steroids,"BP: 137/73, HR: 113, SpO2: 79%","16922 Mallory Bridge Suite 805, Port Jennifer, CA 81057",25 mins
+1325,Monique Cook,56,Male,Brain Hemorrhage,Sudden severe headache,Control blood pressure,"BP: 174/113, HR: 84, SpO2: 90%","819 Ashley Tunnel Apt. 839, West Angelafurt, HI 49056",21 mins
+1326,Anthony Garcia,44,Male,Hypothermia,Weak pulse,Administer warm IV fluids,"BP: 101/80, HR: 70, SpO2: 88%","34053 Benjamin Tunnel, South Jonathan, SC 58798",28 mins
+1327,Katie Miller,36,Female,Brain Hemorrhage,Loss of consciousness,Administer oxygen,"BP: 194/113, HR: 89, SpO2: 92%","120 Roach Terrace, East Richard, AR 04718",28 mins
+1328,Jacob Townsend,84,Male,Septic Shock,Chills,Intravenous fluids,"BP: 78/41, HR: 133, SpO2: 85%","Unit 9551 Box 3646, DPO AA 79037",30 mins
+1329,Kyle Knight,48,Male,Severe Asthma Attack,Bluish lips or face,Administer steroids,"BP: 122/82, HR: 113, SpO2: 73%","Unit 0594 Box 7455, DPO AP 44897",17 mins
+1330,Makayla Fowler,28,Female,Hypothermia,Slurred speech,Administer warm IV fluids,"BP: 108/76, HR: 66, SpO2: 95%","PSC 9241, Box 3343, APO AE 85927",5 mins
+1331,Erin Garrison,49,Female,Severe Asthma Attack,Chest tightness,Administer steroids,"BP: 121/70, HR: 128, SpO2: 82%","61887 Craig Springs, Maryberg, OK 24933",14 mins
+1332,Jasmine Butler,20,Female,Heart Attack,Chest pain or discomfort,Oxygen therapy,"BP: 123/95, HR: 67, SpO2: 94%","3703 Robert Villages, West Seanberg, AL 38330",26 mins
+1333,Christopher Terry,34,Male,Traffic Accident,Loss of consciousness,Administer pain relief,"BP: 125/88, HR: 100, SpO2: 96%","18736 Marquez Meadow, West James, WV 28044",28 mins
+1334,Edward Lambert,27,Male,Trauma,Intense pain,Administer intravenous fluids,"BP: 92/78, HR: 108, SpO2: 85%","014 Perry Ports, Oscarton, NH 96758",28 mins
+1335,Kurt James,51,Female,Severe Asthma Attack,Bluish lips or face,Administer bronchodilator via nebulizer,"BP: 114/71, HR: 118, SpO2: 84%","1544 James Courts, Sharonton, ME 00684",24 mins
+1336,William Campbell,46,Male,Traffic Accident,Loss of consciousness,Immobilize fractures,"BP: 128/70, HR: 81, SpO2: 98%","2038 Ortiz Inlet, Hartmanhaven, OR 60304",20 mins
+1337,Thomas Stark,60,Female,Heat Stroke,Nausea and vomiting,Intravenous fluids,"BP: 140/82, HR: 99, SpO2: 100%","387 Harper Village Suite 230, South Stevenshire, TN 35885",19 mins
+1338,Lisa Smith,50,Male,Anaphylactic Shock,Rapid heart rate,Administer epinephrine,"BP: 70/55, HR: 128, SpO2: 85%","54780 Dawn Summit, Port Dawnberg, WA 79461",21 mins
+1339,Dustin Dixon,27,Female,Brain Hemorrhage,Sudden severe headache,Control blood pressure,"BP: 176/124, HR: 100, SpO2: 89%","913 John Expressway Apt. 040, Albertchester, CT 82165",6 mins
+1340,Ashley Byrd,80,Female,Severe Asthma Attack,Bluish lips or face,Oxygen therapy,"BP: 123/76, HR: 101, SpO2: 77%","15843 Douglas Springs, New Victorfort, MT 06930",6 mins
+1341,Christina Thompson,35,Female,Trauma,Severe bleeding,Control bleeding,"BP: 111/75, HR: 101, SpO2: 93%","Unit 2410 Box 4321, DPO AE 55388",14 mins
+1342,Robert Reese,24,Male,Heart Attack,Chest pain or discomfort,Oxygen therapy,"BP: 155/105, HR: 111, SpO2: 96%","095 Amy Mews Apt. 908, Lake Carl, WY 68113",20 mins
+1343,Larry Carter,73,Male,Stroke,Trouble seeing in one or both eyes,Monitor blood pressure,"BP: 170/92, HR: 89, SpO2: 94%","6785 Jennifer Lakes, Lake Diane, NE 60195",29 mins
+1344,Dr. Marie Davis,80,Male,Brain Hemorrhage,Sudden severe headache,Administer oxygen,"BP: 158/130, HR: 75, SpO2: 90%","PSC 9513, Box 5846, APO AA 14651",23 mins
+1345,Samuel Lowe,36,Female,Anaphylactic Shock,Swelling of face and throat,Oxygen therapy,"BP: 77/54, HR: 124, SpO2: 84%","895 Gonzalez Street Suite 496, East Shannonside, WI 80423",30 mins
+1346,Chris Galvan,30,Female,Trauma,"Shock symptoms (pale, cold skin)",Stabilize patient,"BP: 100/73, HR: 86, SpO2: 85%","USNS Mitchell, FPO AE 69020",30 mins
+1347,Andrea Roberts,49,Female,Anaphylactic Shock,Difficulty breathing,Administer epinephrine,"BP: 85/44, HR: 124, SpO2: 88%","USNS Sharp, FPO AP 78066",13 mins
+1348,Katrina Moore,42,Male,Trauma,"Shock symptoms (pale, cold skin)",Stabilize patient,"BP: 107/72, HR: 107, SpO2: 95%","92217 Bell Springs Apt. 357, North Danielle, MS 66401",28 mins
+1349,Meagan Schroeder,64,Male,Stroke,"Sudden numbness or weakness in the face, arm, or leg",Administer clot-busting medication,"BP: 178/119, HR: 85, SpO2: 94%","352 Cooper Summit Apt. 518, Dayburgh, TN 14903",16 mins
+1350,Hannah Miles,19,Female,Heart Attack,Chest pain or discomfort,Administer aspirin,"BP: 125/86, HR: 85, SpO2: 97%","74832 Mcclain Inlet Suite 054, Laurenbury, IL 02040",7 mins
+1351,Stephen Bolton,86,Male,Severe Asthma Attack,Chest tightness,Administer steroids,"BP: 122/84, HR: 124, SpO2: 77%","5946 Hebert Road, Ramosville, DC 91548",27 mins
+1352,Lawrence Reid,21,Female,Hypothermia,Confusion,Gradual rewarming,"BP: 126/69, HR: 69, SpO2: 91%","2710 Williams View, Collinstown, VA 64127",7 mins
+1353,Diane Price,37,Female,Anaphylactic Shock,Difficulty breathing,Monitor airway and breathing,"BP: 72/59, HR: 102, SpO2: 86%","0342 Mark Squares, East Linda, AL 84938",25 mins
+1354,James Branch,36,Female,Septic Shock,Rapid heart rate,Intravenous fluids,"BP: 79/47, HR: 116, SpO2: 89%","93927 Jason Turnpike Apt. 299, West Andrewstad, NV 73426",17 mins
+1355,Holly Davis DVM,66,Female,Brain Hemorrhage,Loss of consciousness,Control blood pressure,"BP: 188/115, HR: 67, SpO2: 87%","534 Sandoval Well Apt. 069, New Robertmouth, DE 58536",12 mins
+1356,Diana Patterson,42,Female,Severe Asthma Attack,Bluish lips or face,Administer bronchodilator via nebulizer,"BP: 130/77, HR: 123, SpO2: 81%","4839 Medina Pass, North Chrisberg, AK 00917",12 mins
+1357,Melanie Burnett,38,Male,Anaphylactic Shock,Loss of consciousness,Monitor airway and breathing,"BP: 87/47, HR: 128, SpO2: 88%","95148 Gerald Haven, Rileyton, CO 30869",25 mins
+1358,Lynn Lewis,63,Male,Hypothermia,Loss of coordination,Gradual rewarming,"BP: 100/72, HR: 72, SpO2: 88%","878 Adams Meadows, East Jordan, NH 16046",17 mins
+1359,Denise Conner,39,Male,Heart Attack,Shortness of breath,Oxygen therapy,"BP: 159/107, HR: 56, SpO2: 94%","970 Gonzales Fords Apt. 289, East Tracy, TX 16165",17 mins
+1360,Micheal Fuentes,90,Male,Hypothermia,Confusion,Administer warm IV fluids,"BP: 111/60, HR: 63, SpO2: 93%","86725 Roy Burgs, Ginaport, ME 58033",5 mins
+1361,Judith Stanton,26,Male,Severe Asthma Attack,Inability to speak full sentences,Oxygen therapy,"BP: 116/76, HR: 114, SpO2: 79%","247 Brown Dam Apt. 193, West Frankside, OK 58415",30 mins
+1362,Daniel Fischer,85,Male,Anaphylactic Shock,Difficulty breathing,Oxygen therapy,"BP: 80/50, HR: 122, SpO2: 85%","683 Bryan Unions Apt. 976, Timothyville, KY 67448",26 mins
+1363,Bryan Huynh,87,Male,Brain Hemorrhage,Sudden severe headache,Administer oxygen,"BP: 175/104, HR: 98, SpO2: 92%","PSC 8046, Box 3795, APO AA 82308",12 mins
+1364,Chris Sutton,18,Female,Brain Hemorrhage,Nausea and vomiting,"Stabilize patient, Transport to neurosurgical unit","BP: 198/100, HR: 89, SpO2: 88%","02979 Kim Park Suite 510, New Markborough, GA 78468",20 mins
+1365,Latoya Robertson,38,Female,Severe Asthma Attack,Bluish lips or face,Administer steroids,"BP: 112/81, HR: 121, SpO2: 70%","69388 Ellen Circle, Evanschester, OH 85220",21 mins
+1366,Donald Casey,28,Female,Heart Attack,Nausea or lightheadedness,Monitor heart rate and ECG,"BP: 151/87, HR: 106, SpO2: 93%","81134 Bowers Branch, Johnfort, OK 08327",26 mins
+1367,Juan Potter,44,Male,Heat Stroke,Nausea and vomiting,Intravenous fluids,"BP: 133/74, HR: 90, SpO2: 95%","857 Alvarado Crossing Suite 246, Lake Jademouth, IA 97418",12 mins
+1368,Loretta Eaton,66,Female,Anaphylactic Shock,Swelling of face and throat,Administer epinephrine,"BP: 70/49, HR: 139, SpO2: 85%","5536 Rachel Trafficway, Lake Amy, MI 86415",8 mins
+1369,Lisa Simon,29,Male,Traffic Accident,Loss of consciousness,Immobilize fractures,"BP: 139/78, HR: 77, SpO2: 91%","9461 Oliver Trace, East Angela, OR 68744",18 mins
+1370,Jeremiah Hernandez,47,Female,Trauma,Difficulty breathing,Stabilize patient,"BP: 114/80, HR: 126, SpO2: 88%","3697 Tara Fords Apt. 139, North Cynthiaborough, LA 40522",27 mins
+1371,Julie Lyons,57,Male,Trauma,Severe bleeding,Control bleeding,"BP: 114/70, HR: 111, SpO2: 92%","07533 Miranda Cliff, Rodriguezside, UT 47125",25 mins
+1372,Stacey Perkins,31,Male,Stroke,"Confusion, trouble speaking or understanding speech",Administer clot-busting medication,"BP: 173/107, HR: 70, SpO2: 90%","7526 Dustin River, Billyshire, PA 98929",11 mins
+1373,Penny Miller,58,Male,Septic Shock,Low blood pressure,Administer IV antibiotics,"BP: 86/58, HR: 132, SpO2: 84%","9097 Garcia Greens Suite 264, Reyestown, SC 10973",24 mins
+1374,Mary Martinez,59,Female,Heart Attack,Nausea or lightheadedness,Administer aspirin,"BP: 156/110, HR: 88, SpO2: 90%","64585 Gonzalez Valley, Sandraberg, UT 97478",23 mins
+1375,Amy Robbins,21,Male,Heat Stroke,Nausea and vomiting,Monitor heart rate,"BP: 116/70, HR: 98, SpO2: 93%","96462 Tyler Viaduct Suite 212, Brianmouth, PA 33796",21 mins
+1376,Peter Higgins,54,Female,Brain Hemorrhage,Sudden severe headache,"Stabilize patient, Transport to neurosurgical unit","BP: 191/117, HR: 70, SpO2: 92%","53926 Tina Wall Suite 373, Alexisborough, NH 47911",30 mins
+1377,Sandra Obrien MD,64,Female,Heat Stroke,High body temperature (above 104°F or 40°C),"Cooling measures (ice packs, cool water)","BP: 115/86, HR: 119, SpO2: 98%","481 Smith Roads Suite 805, Lake Laurafurt, ID 01700",25 mins
+1378,Shawn Schmidt,33,Male,Anaphylactic Shock,Swelling of face and throat,Oxygen therapy,"BP: 82/49, HR: 92, SpO2: 88%","71683 Blake Streets Apt. 158, South Christopher, DC 40465",19 mins
+1379,Gregory Jenkins,68,Female,Stroke,"Confusion, trouble speaking or understanding speech",Administer clot-busting medication,"BP: 161/103, HR: 66, SpO2: 92%","973 Lawrence Key Suite 653, New Audreychester, CT 32463",14 mins
+1380,Patricia Greer,47,Male,Anaphylactic Shock,Rapid heart rate,Monitor airway and breathing,"BP: 89/58, HR: 97, SpO2: 83%","794 Karen Centers, South Dianachester, ID 55175",25 mins
+1381,Michael Williams PhD,86,Male,Brain Hemorrhage,Loss of consciousness,Control blood pressure,"BP: 164/120, HR: 60, SpO2: 91%","26787 Patterson Common, Port Carlfurt, TN 29999",16 mins
+1382,Lisa Williams,76,Female,Stroke,Trouble seeing in one or both eyes,Monitor blood pressure,"BP: 157/116, HR: 63, SpO2: 94%","PSC 0136, Box 0008, APO AA 33872",16 mins
+1383,Lindsay Martin,74,Male,Severe Asthma Attack,Inability to speak full sentences,Administer bronchodilator via nebulizer,"BP: 110/88, HR: 103, SpO2: 73%","434 Heath Manor, Nelsonfurt, IN 42851",18 mins
+1384,Melissa Russo,29,Male,Heart Attack,Chest pain or discomfort,Administer aspirin,"BP: 151/104, HR: 101, SpO2: 95%","32440 Gallagher Prairie Suite 466, Robertsbury, MI 58107",29 mins
+1385,Jesus Webb,86,Female,Heat Stroke,"Hot, dry skin",Monitor heart rate,"BP: 118/94, HR: 104, SpO2: 98%","0671 Perez Trail Apt. 627, New Monica, AK 97994",21 mins
+1386,Jason Cole,28,Female,Septic Shock,High fever,Intravenous fluids,"BP: 85/50, HR: 106, SpO2: 81%","612 Tanya Roads, East Rebeccatown, MT 95727",21 mins
+1387,Ethan Thompson,67,Female,Heat Stroke,High body temperature (above 104°F or 40°C),Monitor heart rate,"BP: 124/99, HR: 114, SpO2: 95%","887 Michael Ford Suite 801, Simmonsmouth, UT 13771",29 mins
+1388,Robert Smith,58,Male,Trauma,Intense pain,Administer intravenous fluids,"BP: 109/68, HR: 139, SpO2: 88%","8520 Taylor Forest Apt. 279, Lake Jamesside, CO 85592",9 mins
+1389,Bryan Peterson,50,Male,Severe Asthma Attack,Bluish lips or face,Administer bronchodilator via nebulizer,"BP: 131/70, HR: 101, SpO2: 73%","1929 Derek Light, Floresfurt, NC 19541",27 mins
+1390,Victor Young,66,Male,Traffic Accident,Fractures and bone deformity,Apply pressure to bleeding wounds,"BP: 125/74, HR: 102, SpO2: 92%","91531 Morales Ports, Dannyfurt, VA 18758",10 mins
+1391,Christy Sheppard,52,Female,Severe Asthma Attack,Wheezing and shortness of breath,Administer steroids,"BP: 131/82, HR: 119, SpO2: 89%","536 Clarke Burgs, Carlabury, MD 11358",13 mins
+1392,James Perez,80,Female,Septic Shock,Low blood pressure,Intravenous fluids,"BP: 74/50, HR: 99, SpO2: 80%","0657 Smith Viaduct Suite 340, Boydland, IN 64125",28 mins
+1393,Danielle Garcia,70,Male,Hypothermia,Slurred speech,Administer warm IV fluids,"BP: 122/75, HR: 61, SpO2: 88%","798 Tammy Ville, West Jacquelinefort, TX 36025",24 mins
+1394,Kenneth Jones,64,Female,Hypothermia,Loss of coordination,Monitor vitals,"BP: 128/73, HR: 74, SpO2: 91%","072 Vincent Ranch Suite 284, North Kimberly, NC 57556",8 mins
+1395,Mathew Dawson,22,Female,Heart Attack,Nausea or lightheadedness,Monitor heart rate and ECG,"BP: 131/98, HR: 78, SpO2: 94%","7834 Perry Orchard, Chadside, UT 91675",20 mins
+1396,Frank Rivera,90,Female,Trauma,"Shock symptoms (pale, cold skin)",Administer intravenous fluids,"BP: 115/74, HR: 140, SpO2: 95%","33728 Dawn Way Suite 274, Andrewmouth, CT 50792",7 mins
+1397,Kimberly Atkins,64,Male,Hypothermia,Slurred speech,Administer warm IV fluids,"BP: 125/74, HR: 77, SpO2: 93%","5071 Benjamin Drives Apt. 091, Michaelburgh, NH 18971",10 mins
+1398,Barbara Williams,90,Male,Trauma,"Shock symptoms (pale, cold skin)",Administer intravenous fluids,"BP: 104/75, HR: 120, SpO2: 93%","USNS Perry, FPO AA 47330",25 mins
+1399,Anna Sanders,36,Female,Severe Asthma Attack,Bluish lips or face,Oxygen therapy,"BP: 122/77, HR: 123, SpO2: 75%","216 Brooks Ports Suite 011, Lake Jessica, RI 74324",18 mins
+1400,Anthony Barton,40,Female,Trauma,Intense pain,Control bleeding,"BP: 113/68, HR: 125, SpO2: 90%","9081 Berger Highway Apt. 547, South Nicolechester, AL 76370",17 mins
+1401,Melissa Williams,80,Female,Heat Stroke,Nausea and vomiting,"Cooling measures (ice packs, cool water)","BP: 148/90, HR: 111, SpO2: 93%","76201 Palmer Island Apt. 022, Millerfurt, DC 15476",26 mins
+1402,Emma Gonzalez,33,Female,Hypothermia,Confusion,Monitor vitals,"BP: 125/60, HR: 61, SpO2: 88%","78294 Howell Unions, South Sharonfort, VT 23536",24 mins
+1403,Hailey Hamilton,65,Female,Brain Hemorrhage,Loss of consciousness,Administer oxygen,"BP: 176/129, HR: 92, SpO2: 91%","3319 Colleen Glen Suite 901, Thompsonport, VA 98340",5 mins
+1404,Richard Lewis,83,Male,Brain Hemorrhage,Loss of consciousness,Control blood pressure,"BP: 180/110, HR: 61, SpO2: 86%","4201 Louis Mall Suite 266, New Joshua, IL 35635",23 mins
+1405,Kelly Baker,33,Male,Heart Attack,Sweating,Monitor heart rate and ECG,"BP: 153/80, HR: 73, SpO2: 97%","4890 Joseph Loaf, North Scottport, TN 36913",23 mins
+1406,Valerie Pratt,42,Male,Anaphylactic Shock,Rapid heart rate,Administer epinephrine,"BP: 90/50, HR: 137, SpO2: 82%","USNS Wong, FPO AP 92582",29 mins
+1407,Ashley Vincent,46,Male,Heat Stroke,Rapid heart rate,Intravenous fluids,"BP: 116/81, HR: 110, SpO2: 96%","Unit 1221 Box 7535, DPO AP 96359",14 mins
+1408,Julian Murray,85,Female,Septic Shock,Confusion and disorientation,Monitor blood pressure,"BP: 82/46, HR: 118, SpO2: 84%","71086 Bridges Summit Apt. 211, Matthewport, MD 74410",29 mins
+1409,Wesley Lee,28,Male,Septic Shock,Low blood pressure,Administer IV antibiotics,"BP: 85/48, HR: 123, SpO2: 90%","390 Cunningham Cove Suite 846, Smithstad, OH 91859",7 mins
+1410,Jessica Middleton,33,Female,Traffic Accident,"Chest pain, difficulty breathing",Immobilize fractures,"BP: 125/86, HR: 81, SpO2: 93%","46780 Roy Dam, North Davidton, WI 68988",19 mins
+1411,Shirley Jenkins,59,Female,Severe Asthma Attack,Inability to speak full sentences,Administer bronchodilator via nebulizer,"BP: 131/82, HR: 117, SpO2: 83%","54657 Cindy Junction Suite 012, New Heatherhaven, AZ 99317",15 mins
+1412,Michelle Foster,80,Male,Septic Shock,Rapid heart rate,Administer IV antibiotics,"BP: 74/52, HR: 129, SpO2: 81%","587 Warren Estate, North Alexandria, WV 22191",11 mins
+1413,Tyler Jones,67,Male,Brain Hemorrhage,Sudden severe headache,Administer oxygen,"BP: 153/119, HR: 94, SpO2: 85%","82558 Henry Plain Suite 234, Adamsshire, MS 02638",17 mins
+1414,Dr. Jeffrey Salazar,81,Male,Septic Shock,Rapid heart rate,Administer IV antibiotics,"BP: 89/56, HR: 125, SpO2: 82%","69386 Christopher Well Apt. 258, South Lucashaven, DC 10030",26 mins
+1415,Jodi Butler,60,Male,Traffic Accident,Loss of consciousness,Immobilize fractures,"BP: 134/75, HR: 110, SpO2: 90%","Unit 9041 Box 8607, DPO AA 34790",17 mins
+1416,Xavier Potts,70,Male,Hypothermia,Slurred speech,Gradual rewarming,"BP: 122/70, HR: 58, SpO2: 92%","641 Martinez Spurs, Griffithstad, IL 87410",9 mins
+1417,Robert Spencer,24,Male,Brain Hemorrhage,Weakness or numbness in limbs,"Stabilize patient, Transport to neurosurgical unit","BP: 170/106, HR: 92, SpO2: 91%","32691 Cory Causeway Suite 007, Erikastad, SD 03381",22 mins
+1418,Carlos Wright,56,Male,Traffic Accident,"Chest pain, difficulty breathing",Immobilize fractures,"BP: 128/84, HR: 109, SpO2: 98%","5524 Gibson Extensions Apt. 602, Lake Edwardton, CO 09321",24 mins
+1419,Brandon Porter,29,Male,Hypothermia,Shivering,Monitor vitals,"BP: 101/80, HR: 77, SpO2: 90%","260 Mitchell Station Apt. 547, Port Jenniferbury, UT 42528",6 mins
+1420,Joseph Wagner,57,Female,Traffic Accident,Severe bleeding,Immobilize fractures,"BP: 118/86, HR: 72, SpO2: 96%","Unit 1332 Box 2526, DPO AE 79837",11 mins
+1421,Timothy Owens,54,Male,Stroke,"Confusion, trouble speaking or understanding speech",Oxygen therapy,"BP: 162/93, HR: 64, SpO2: 93%","008 Samantha Mission Suite 303, Port Rachelshire, AZ 73068",23 mins
+1422,Kenneth Ramirez,46,Male,Brain Hemorrhage,Loss of consciousness,Administer oxygen,"BP: 165/112, HR: 91, SpO2: 90%","00552 Jose Field, Millerstad, AL 30825",19 mins
+1423,Nicholas Jordan,55,Male,Stroke,Trouble seeing in one or both eyes,Administer clot-busting medication,"BP: 162/91, HR: 60, SpO2: 90%","957 Jennifer Dam, Crossview, LA 00803",15 mins
+1424,Robert Davidson,82,Male,Anaphylactic Shock,Hives or rash,Monitor airway and breathing,"BP: 79/50, HR: 95, SpO2: 84%","18350 Sara Court Suite 388, East Anthony, NE 11246",14 mins
+1425,Bradley Phillips,81,Female,Severe Asthma Attack,Bluish lips or face,Oxygen therapy,"BP: 121/78, HR: 127, SpO2: 89%","809 Reed Lodge, West William, CT 91491",13 mins
+1426,Chad Holland,29,Female,Anaphylactic Shock,Swelling of face and throat,Administer epinephrine,"BP: 71/52, HR: 90, SpO2: 80%","3803 Mary Spurs, Crystalville, MI 00656",19 mins
+1427,Beverly Smith,80,Female,Brain Hemorrhage,Nausea and vomiting,Administer oxygen,"BP: 153/106, HR: 82, SpO2: 89%","8291 Marquez Cape Suite 154, Gardnerburgh, NM 94898",15 mins
+1428,Katelyn Roberts,87,Female,Severe Asthma Attack,Chest tightness,Administer steroids,"BP: 138/74, HR: 105, SpO2: 86%","285 Samantha Track, Deborahburgh, IA 21970",15 mins
+1429,Adam Acevedo,77,Male,Anaphylactic Shock,Swelling of face and throat,Monitor airway and breathing,"BP: 75/59, HR: 90, SpO2: 76%","7940 Reid Parkways, East James, NE 73610",29 mins
+1430,April Gibson,35,Female,Anaphylactic Shock,Loss of consciousness,Oxygen therapy,"BP: 85/52, HR: 110, SpO2: 84%","6089 Tyler Spring Apt. 109, Lindseyland, WI 19453",8 mins
+1431,Ryan Johnston,55,Female,Brain Hemorrhage,Sudden severe headache,Administer oxygen,"BP: 193/116, HR: 83, SpO2: 88%","146 Hall Springs, Benjaminhaven, NH 51027",11 mins
+1432,Jose Lee,50,Male,Anaphylactic Shock,Difficulty breathing,Oxygen therapy,"BP: 75/60, HR: 105, SpO2: 79%","688 Garcia Extension Apt. 407, New Denise, AR 19331",10 mins
+1433,Sean Barton,22,Male,Stroke,Trouble seeing in one or both eyes,Monitor blood pressure,"BP: 178/103, HR: 93, SpO2: 94%","22028 Patel Trafficway Apt. 587, Lake Hollyberg, CT 49766",22 mins
+1434,William Travis,65,Male,Heart Attack,Chest pain or discomfort,Administer aspirin,"BP: 123/100, HR: 115, SpO2: 95%","41376 Cabrera Park Apt. 354, North Samuel, WI 42473",14 mins
+1435,Jason Blackwell,89,Male,Stroke,"Sudden numbness or weakness in the face, arm, or leg",Monitor blood pressure,"BP: 144/96, HR: 67, SpO2: 94%","12221 April Club, Port Markstad, HI 30820",23 mins
+1436,Megan Miller,54,Male,Heat Stroke,Rapid heart rate,"Cooling measures (ice packs, cool water)","BP: 132/92, HR: 119, SpO2: 97%","2651 Karen Valleys Apt. 385, Mitchellville, OR 96394",14 mins
+1437,Edward Clark,58,Female,Heat Stroke,High body temperature (above 104°F or 40°C),"Cooling measures (ice packs, cool water)","BP: 131/87, HR: 125, SpO2: 90%","USNS Hamilton, FPO AA 52714",17 mins
+1438,Ronnie Ruiz,24,Female,Stroke,"Sudden numbness or weakness in the face, arm, or leg",Administer clot-busting medication,"BP: 155/116, HR: 66, SpO2: 92%","0702 Ian Springs Apt. 919, West James, MS 77737",19 mins
+1439,Michaela Davidson,85,Female,Traffic Accident,"Chest pain, difficulty breathing",Apply pressure to bleeding wounds,"BP: 121/72, HR: 112, SpO2: 98%","4741 Sullivan Circle, North Michael, NE 32471",10 mins
+1440,Ricky Williams,39,Female,Brain Hemorrhage,Weakness or numbness in limbs,Control blood pressure,"BP: 189/115, HR: 96, SpO2: 85%","76953 Theresa Path Apt. 610, Danielburgh, OH 37668",14 mins
+1441,Theodore Cortez,73,Male,Stroke,"Sudden numbness or weakness in the face, arm, or leg",Oxygen therapy,"BP: 158/106, HR: 99, SpO2: 91%","85320 Maria Branch, Zavalaland, MN 80556",27 mins
+1442,Christopher Rivera,65,Male,Heart Attack,Nausea or lightheadedness,Oxygen therapy,"BP: 155/85, HR: 70, SpO2: 95%","23598 Charles Spur, New David, KY 37040",27 mins
+1443,Christopher Walsh,24,Female,Stroke,"Confusion, trouble speaking or understanding speech",Monitor blood pressure,"BP: 177/98, HR: 96, SpO2: 94%","55369 Tara Fords, South Williamshire, OR 83812",22 mins
+1444,Matthew Brown,69,Male,Traffic Accident,Fractures and bone deformity,Apply pressure to bleeding wounds,"BP: 118/82, HR: 119, SpO2: 96%","40908 Chelsea Mountain Suite 605, Port David, AZ 30304",16 mins
+1445,Jordan Mcgee,87,Female,Trauma,Difficulty breathing,Control bleeding,"BP: 110/77, HR: 115, SpO2: 93%","Unit 8830 Box 8531, DPO AP 47561",26 mins
+1446,Jason Stewart,56,Male,Heart Attack,Shortness of breath,Monitor heart rate and ECG,"BP: 134/92, HR: 57, SpO2: 93%","0999 Ferguson Avenue Suite 657, Michaelstad, NE 87673",8 mins
+1447,Robert Ward,71,Male,Traffic Accident,"Chest pain, difficulty breathing",Apply pressure to bleeding wounds,"BP: 118/89, HR: 102, SpO2: 90%","USS Alexander, FPO AP 85336",20 mins
+1448,Deanna Stewart,32,Female,Heat Stroke,High body temperature (above 104°F or 40°C),"Cooling measures (ice packs, cool water)","BP: 120/73, HR: 121, SpO2: 97%","810 Murillo Valleys Suite 799, Adamfort, NC 20952",15 mins
+1449,Dr. Rebecca Roberts,66,Male,Hypothermia,Weak pulse,Gradual rewarming,"BP: 107/61, HR: 53, SpO2: 93%","098 Oneal Plaza Apt. 699, New Austin, MI 42468",29 mins
+1450,Lauren Bell,50,Male,Septic Shock,Low blood pressure,Monitor blood pressure,"BP: 71/56, HR: 103, SpO2: 80%","4095 Taylor Station, Lake Brendan, ME 55757",13 mins
+1451,Kenneth Clark,49,Male,Anaphylactic Shock,Rapid heart rate,Monitor airway and breathing,"BP: 86/46, HR: 91, SpO2: 76%","410 Melinda Fords Apt. 493, Lake Christina, NC 58241",22 mins
+1452,Julie Stone,41,Female,Trauma,Difficulty breathing,Administer intravenous fluids,"BP: 116/60, HR: 124, SpO2: 88%","236 Strong Ford Apt. 702, Marybury, WY 26584",25 mins
+1453,Bianca Jarvis,76,Female,Heart Attack,Nausea or lightheadedness,Oxygen therapy,"BP: 153/80, HR: 109, SpO2: 91%","164 Aaron Meadow Apt. 357, Ryanton, KS 05582",25 mins
+1454,Stacey Morse,49,Male,Stroke,"Sudden numbness or weakness in the face, arm, or leg",Administer clot-busting medication,"BP: 174/109, HR: 86, SpO2: 90%","0829 Donna Shoals Apt. 311, Moorehaven, FL 06737",26 mins
+1455,Joanna Flores,66,Male,Heart Attack,Shortness of breath,Administer aspirin,"BP: 133/95, HR: 103, SpO2: 90%","9302 Holmes Parks, New Theresa, IA 15926",9 mins
+1456,Brittany Ruiz,73,Female,Septic Shock,Chills,Intravenous fluids,"BP: 86/59, HR: 108, SpO2: 80%","20043 Walters Shores, New Joseph, AK 72656",7 mins
+1457,Michael Martinez,27,Female,Anaphylactic Shock,Loss of consciousness,Monitor airway and breathing,"BP: 84/44, HR: 123, SpO2: 82%","5150 Ryan Pine, Port Kyle, NE 87694",23 mins
+1458,Joseph Martin,80,Male,Severe Asthma Attack,Bluish lips or face,Oxygen therapy,"BP: 129/88, HR: 110, SpO2: 78%","6800 Bauer Knoll, Georgeton, CO 38687",6 mins
+1459,Anthony Gilbert,60,Male,Anaphylactic Shock,Rapid heart rate,Oxygen therapy,"BP: 90/50, HR: 134, SpO2: 85%","5254 Rodriguez Junction Suite 195, Roachshire, NM 03291",29 mins
+1460,Rebecca Mack,53,Male,Hypothermia,Weak pulse,Monitor vitals,"BP: 115/70, HR: 64, SpO2: 91%","8475 Hodges Station, Danielleborough, AL 79269",9 mins
+1461,Aaron Campbell,18,Male,Heart Attack,Nausea or lightheadedness,Oxygen therapy,"BP: 120/82, HR: 92, SpO2: 94%","388 Kimberly Road Apt. 951, East Paulstad, TX 24587",18 mins
+1462,Kelly Fisher,29,Male,Traffic Accident,"Chest pain, difficulty breathing",Apply pressure to bleeding wounds,"BP: 130/76, HR: 107, SpO2: 94%","0047 Campbell Summit Apt. 937, Lake Matthew, WA 98370",9 mins
+1463,Sally May,48,Male,Severe Asthma Attack,Chest tightness,Administer steroids,"BP: 120/87, HR: 104, SpO2: 74%","2382 Ward Valley, West Robert, ID 53634",15 mins
+1464,Nichole Vazquez,19,Male,Brain Hemorrhage,Weakness or numbness in limbs,"Stabilize patient, Transport to neurosurgical unit","BP: 200/113, HR: 87, SpO2: 85%","255 Garcia Skyway, East Bethanyhaven, OH 55659",20 mins
+1465,Nancy Campbell,64,Male,Severe Asthma Attack,Bluish lips or face,Administer steroids,"BP: 137/79, HR: 115, SpO2: 82%","2513 Larry Route, Freemanport, VA 52100",29 mins
+1466,Trevor Alvarez,31,Female,Heat Stroke,Nausea and vomiting,Intravenous fluids,"BP: 123/87, HR: 101, SpO2: 90%","32999 Wise Heights Apt. 558, Lake Anthony, CO 99620",10 mins
+1467,Cheryl Avery,35,Female,Trauma,Severe bleeding,Stabilize patient,"BP: 107/72, HR: 103, SpO2: 95%","5189 Joseph Lodge, Robinsonchester, MT 65528",25 mins
+1468,Pamela Jackson,62,Male,Hypothermia,Shivering,Monitor vitals,"BP: 127/79, HR: 74, SpO2: 94%","16424 Chavez Burgs, Port Christopher, GA 69800",30 mins
+1469,Zachary Molina,54,Female,Heat Stroke,Rapid heart rate,Monitor heart rate,"BP: 124/79, HR: 101, SpO2: 94%","301 Tammy Track, Anthonybury, WA 48147",26 mins
+1470,George Johnson,39,Female,Anaphylactic Shock,Loss of consciousness,Administer epinephrine,"BP: 87/53, HR: 140, SpO2: 77%","66913 Mcclure Cove Suite 104, Port Tyler, PA 95712",11 mins
+1471,Danielle Mcdowell,70,Male,Brain Hemorrhage,Weakness or numbness in limbs,Control blood pressure,"BP: 191/106, HR: 99, SpO2: 89%","33156 Quinn Pass Suite 359, Bushchester, MN 71969",5 mins
+1472,Lawrence Hopkins,26,Male,Stroke,Severe headache with no known cause,Administer clot-busting medication,"BP: 152/94, HR: 98, SpO2: 90%","PSC 8822, Box 0096, APO AE 97958",17 mins
+1473,Michelle Cook,52,Female,Septic Shock,Chills,Administer IV antibiotics,"BP: 70/49, HR: 126, SpO2: 82%","8372 Jones Vista Suite 077, North Dale, HI 21741",20 mins
+1474,Veronica Matthews,44,Female,Heart Attack,Chest pain or discomfort,Monitor heart rate and ECG,"BP: 148/98, HR: 107, SpO2: 92%","0688 Cook Shoal Suite 879, Deannafort, MD 63000",13 mins
+1475,Morgan Irwin,67,Female,Trauma,Severe bleeding,Control bleeding,"BP: 110/72, HR: 133, SpO2: 87%","704 Sanders Harbors Suite 308, Coopermouth, WI 36521",25 mins
+1476,Eddie Leon,66,Female,Heat Stroke,"Hot, dry skin",Intravenous fluids,"BP: 120/87, HR: 119, SpO2: 92%","982 Tony Dam, Jaclynmouth, UT 83748",18 mins
+1477,Jeffrey Moon,75,Female,Heat Stroke,Rapid heart rate,"Cooling measures (ice packs, cool water)","BP: 121/85, HR: 113, SpO2: 96%","92308 Johnson Mall, West Mariashire, AZ 43505",20 mins
+1478,Michael Medina,76,Male,Stroke,"Confusion, trouble speaking or understanding speech",Administer clot-busting medication,"BP: 155/92, HR: 67, SpO2: 90%","10898 Ruiz Harbors, Lake Jenniferberg, NE 75950",13 mins
+1479,Heather Young,26,Male,Trauma,Intense pain,Stabilize patient,"BP: 90/67, HR: 81, SpO2: 94%","2818 Payne Loaf, New Todd, TX 81470",27 mins
+1480,Elizabeth David,89,Female,Heat Stroke,Rapid heart rate,Monitor heart rate,"BP: 150/80, HR: 104, SpO2: 97%","USNS Montgomery, FPO AP 77241",9 mins
+1481,Brad Reyes,61,Female,Hypothermia,Shivering,Monitor vitals,"BP: 121/80, HR: 80, SpO2: 95%","Unit 5612 Box 2026, DPO AE 69909",22 mins
+1482,Nicholas Garrett,41,Male,Septic Shock,High fever,Intravenous fluids,"BP: 71/59, HR: 101, SpO2: 85%","9522 Julia Lakes Apt. 167, New Lisaton, DC 08913",12 mins
+1483,Courtney Santos,70,Female,Severe Asthma Attack,Chest tightness,Administer bronchodilator via nebulizer,"BP: 133/77, HR: 104, SpO2: 75%","330 Nathan Spur, East Gary, SD 88778",22 mins
+1484,Samantha Mitchell,84,Male,Stroke,Trouble seeing in one or both eyes,Administer clot-busting medication,"BP: 172/114, HR: 69, SpO2: 90%","54758 Robinson Orchard, Joshuaside, WV 11537",6 mins
+1485,Mark Pratt,37,Male,Anaphylactic Shock,Loss of consciousness,Oxygen therapy,"BP: 81/50, HR: 122, SpO2: 90%","91290 Martin Oval, North Carlfort, NJ 86505",16 mins
+1486,Melinda Watkins,90,Male,Heart Attack,Chest pain or discomfort,Oxygen therapy,"BP: 127/88, HR: 83, SpO2: 94%","94661 James Vista, Barnesport, RI 86951",26 mins
+1487,Lacey Wagner,46,Female,Hypothermia,Slurred speech,Monitor vitals,"BP: 113/77, HR: 63, SpO2: 93%","7006 Richmond Cove, Lake Hector, WA 57495",11 mins
+1488,Gail Sanders,47,Female,Traffic Accident,"Chest pain, difficulty breathing",Immobilize fractures,"BP: 111/81, HR: 83, SpO2: 99%","820 Morgan Courts Apt. 038, Jeffreyshire, CT 41873",17 mins
+1489,James Wood,23,Female,Heart Attack,Nausea or lightheadedness,Administer aspirin,"BP: 147/106, HR: 85, SpO2: 90%","682 Taylor Mission Suite 131, Catherineton, NV 15134",18 mins
+1490,Diane Hernandez,33,Male,Trauma,Difficulty breathing,Administer intravenous fluids,"BP: 111/79, HR: 122, SpO2: 88%","405 Anna Ferry, North Randall, DE 62059",13 mins
+1491,Robert Fields,90,Female,Septic Shock,Low blood pressure,Intravenous fluids,"BP: 87/46, HR: 126, SpO2: 85%","4614 Anna Lock, Ariasland, ME 83074",12 mins
+1492,Kevin Merritt,63,Female,Septic Shock,Confusion and disorientation,Monitor blood pressure,"BP: 87/51, HR: 117, SpO2: 88%","921 Candace Mission Apt. 460, Daniellestad, MA 12951",10 mins
+1493,Autumn Moore,38,Female,Anaphylactic Shock,Swelling of face and throat,Oxygen therapy,"BP: 85/46, HR: 116, SpO2: 89%","784 Jessica Village, East Paul, TN 06804",10 mins
+1494,Melissa Barron,47,Female,Heat Stroke,High body temperature (above 104°F or 40°C),"Cooling measures (ice packs, cool water)","BP: 123/93, HR: 130, SpO2: 94%","19822 Cheryl Crescent Suite 398, West Gina, KY 18319",30 mins
+1495,Christina Clayton,82,Female,Trauma,"Shock symptoms (pale, cold skin)",Control bleeding,"BP: 91/63, HR: 97, SpO2: 95%","46598 Lawson Burg Apt. 609, Lake Laurenbury, NV 58099",29 mins
+1496,Harry Mitchell,19,Male,Stroke,Severe headache with no known cause,Oxygen therapy,"BP: 166/95, HR: 86, SpO2: 94%","Unit 1198 Box 2969, DPO AP 78013",30 mins
+1497,William Davis,76,Male,Heat Stroke,"Hot, dry skin",Intravenous fluids,"BP: 131/85, HR: 122, SpO2: 91%","8543 Brian Union Suite 197, Brianport, MT 92153",27 mins
+1498,Julian Gonzalez,21,Female,Heart Attack,Nausea or lightheadedness,Monitor heart rate and ECG,"BP: 151/108, HR: 59, SpO2: 92%","6914 Daniel Mills, Forbesmouth, VA 77627",23 mins
+1499,Melissa Hansen,39,Male,Stroke,Severe headache with no known cause,Oxygen therapy,"BP: 165/99, HR: 63, SpO2: 91%","521 Charles Rapids Apt. 753, Lake Cody, OR 84883",17 mins
+1500,James Martin,89,Male,Anaphylactic Shock,Difficulty breathing,Administer epinephrine,"BP: 84/55, HR: 103, SpO2: 78%","169 Powers Streets, East Douglas, MN 88731",9 mins
