@@ -1,5 +1,5 @@
 
-# Project Title
+# MedRoute.AI
 
 Our model predicts the requirement for treatment of a patient by analyzing his/her symptoms , it sends the predicted treatment and symptoms and the required doctor names(doctors info is given as input to the model) to all the hospitals within the accessible distance, the hospital sends if the facility and gives the reason for its analysis and the required doctor is vacant now, if yes then the hospital sends back an accept signal , the ambulance must navigate to the nearest hospital from the n number of hospital who gave the accept signal , implement pretrained bert model on this
 
